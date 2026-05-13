@@ -1,0 +1,41 @@
+# Large data files
+*.rds
+*.RDS
+*.feather
+*.loom
+*.mtx.gz
+*.RData
+.RDataTmp
+
+# SCENIC databases (large reference files)
+**/cisTarget_databases/
+**/databases/
+
+# Large expression matrices (>100MB)
+**/exprMat.csv
+**/exprMat.tsv
+**/exprMat*.csv
+**/exprMat*.tsv
+
+# SCENIC output large files
+**/pySCENIC_filtered*.loom
+**/pySCENIC_viz*.loom
+**/pySCENIC_GRN_adjacencies*.csv
+
+# Large loom files from SCENIC
+**/so.renamed_res*.loom
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Hidden files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
