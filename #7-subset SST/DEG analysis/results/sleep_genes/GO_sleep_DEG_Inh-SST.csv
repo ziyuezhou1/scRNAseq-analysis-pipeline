@@ -1,0 +1,138 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0045542","positive regulation of cholesterol biosynthetic process","1/2","11/28943",0.000759983391325658,0.0139865446102188,NA,"Fgf1",1
+"GO:0106120","positive regulation of sterol biosynthetic process","1/2","11/28943",0.000759983391325658,0.0139865446102188,NA,"Fgf1",1
+"GO:2000347","positive regulation of hepatocyte proliferation","1/2","13/28943",0.000898131151209958,0.0139865446102188,NA,"Fgf1",1
+"GO:0060979","vasculogenesis involved in coronary vascular morphogenesis","1/2","16/28943",0.0011053348841874,0.0139865446102188,NA,"Fgf1",1
+"GO:0090205","positive regulation of cholesterol metabolic process","1/2","18/28943",0.00124345876827292,0.0139865446102188,NA,"Fgf1",1
+"GO:0003159","morphogenesis of an endothelium","1/2","20/28943",0.0013815731020389,0.0139865446102188,NA,"Fgf1",1
+"GO:0045540","regulation of cholesterol biosynthetic process","1/2","20/28943",0.0013815731020389,0.0139865446102188,NA,"Fgf1",1
+"GO:0061154","endothelial tube morphogenesis","1/2","20/28943",0.0013815731020389,0.0139865446102188,NA,"Fgf1",1
+"GO:0106118","regulation of sterol biosynthetic process","1/2","20/28943",0.0013815731020389,0.0139865446102188,NA,"Fgf1",1
+"GO:0060602","branch elongation of an epithelium","1/2","22/28943",0.00151967788548502,0.0139865446102188,NA,"Fgf1",1
+"GO:1903672","positive regulation of sprouting angiogenesis","1/2","22/28943",0.00151967788548502,0.0139865446102188,NA,"Fgf1",1
+"GO:2001026","regulation of endothelial cell chemotaxis","1/2","23/28943",0.00158872669583865,0.0139865446102188,NA,"Fgf1",1
+"GO:2000345","regulation of hepatocyte proliferation","1/2","24/28943",0.00165777311861171,0.0139865446102188,NA,"Fgf1",1
+"GO:0032148","activation of protein kinase B activity","1/2","28/28943",0.00193393493390703,0.0139865446102188,NA,"Fgf1",1
+"GO:0001759","organ induction","1/2","29/28943",0.00200296941878098,0.0139865446102188,NA,"Fgf1",1
+"GO:0010893","positive regulation of steroid biosynthetic process","1/2","29/28943",0.00200296941878098,0.0139865446102188,NA,"Fgf1",1
+"GO:1902932","positive regulation of alcohol biosynthetic process","1/2","29/28943",0.00200296941878098,0.0139865446102188,NA,"Fgf1",1
+"GO:0035767","endothelial cell chemotaxis","1/2","31/28943",0.00214103122578924,0.0139865446102188,NA,"Fgf1",1
+"GO:0060977","coronary vasculature morphogenesis","1/2","32/28943",0.00221005854792355,0.0139865446102188,NA,"Fgf1",1
+"GO:0072574","hepatocyte proliferation","1/2","32/28943",0.00221005854792355,0.0139865446102188,NA,"Fgf1",1
+"GO:0072575","epithelial cell proliferation involved in liver morphogenesis","1/2","32/28943",0.00221005854792355,0.0139865446102188,NA,"Fgf1",1
+"GO:0003156","regulation of animal organ formation","1/2","34/28943",0.00234810602945279,0.0139865446102188,NA,"Fgf1",1
+"GO:0072576","liver morphogenesis","1/2","34/28943",0.00234810602945279,0.0139865446102188,NA,"Fgf1",1
+"GO:0003401","axis elongation","1/2","36/28943",0.00248614396066249,0.0141895305276119,NA,"Fgf1",1
+"GO:1903670","regulation of sprouting angiogenesis","1/2","40/28943",0.00276219117212229,0.0141895305276119,NA,"Fgf1",1
+"GO:0090181","regulation of cholesterol metabolic process","1/2","41/28943",0.00283119700603796,0.0141895305276119,NA,"Fgf1",1
+"GO:0010092","specification of animal organ identity","1/2","42/28943",0.00290020045237338,0.0141895305276119,NA,"Fgf1",1
+"GO:0110110","positive regulation of animal organ morphogenesis","1/2","42/28943",0.00290020045237338,0.0141895305276119,NA,"Fgf1",1
+"GO:0031128","developmental induction","1/2","44/28943",0.00303820018230461,0.0141895305276119,NA,"Fgf1",1
+"GO:0045940","positive regulation of steroid metabolic process","1/2","45/28943",0.00310719646590041,0.0141895305276119,NA,"Fgf1",1
+"GO:1902930","regulation of alcohol biosynthetic process","1/2","50/28943",0.00345214207018096,0.0152562407617675,NA,"Fgf1",1
+"GO:0034605","cellular response to heat","1/2","53/28943",0.003659080781791,0.0156654395970427,NA,"Fgf1",1
+"GO:0006695","cholesterol biosynthetic process","1/2","57/28943",0.00393496563781903,0.0158555968347414,NA,"Fgf1",1
+"GO:1902653","secondary alcohol biosynthetic process","1/2","57/28943",0.00393496563781903,0.0158555968347414,NA,"Fgf1",1
+"GO:0016126","sterol biosynthetic process","1/2","63/28943",0.00434872129446406,0.0164259680131669,NA,"Fgf1",1
+"GO:0060038","cardiac muscle cell proliferation","1/2","66/28943",0.00455556689045844,0.0164259680131669,NA,"Fgf1",1
+"GO:0001658","branching involved in ureteric bud morphogenesis","1/2","67/28943",0.00462451064729674,0.0164259680131669,NA,"Fgf1",1
+"GO:1905330","regulation of morphogenesis of an epithelium","1/2","73/28943",0.00503812304914886,0.0164259680131669,NA,"Fgf1",1
+"GO:0060675","ureteric bud morphogenesis","1/2","74/28943",0.00510705009292778,0.0164259680131669,NA,"Fgf1",1
+"GO:0048645","animal organ formation","1/2","75/28943",0.0051759747491269,0.0164259680131669,NA,"Fgf1",1
+"GO:0060976","coronary vasculature development","1/2","77/28943",0.00531381689878552,0.0164259680131669,NA,"Fgf1",1
+"GO:0072171","mesonephric tubule morphogenesis","1/2","78/28943",0.00538273439224513,0.0164259680131669,NA,"Fgf1",1
+"GO:0008543","fibroblast growth factor receptor signaling pathway","1/2","81/28943",0.00558947254714448,0.0164259680131669,NA,"Fgf1",1
+"GO:0050810","regulation of steroid biosynthetic process","1/2","83/28943",0.0057272860458446,0.0164259680131669,NA,"Fgf1",1
+"GO:0014855","striated muscle cell proliferation","1/2","85/28943",0.00586508999422497,0.0164259680131669,NA,"Fgf1",1
+"GO:0072078","nephron tubule morphogenesis","1/2","86/28943",0.0059339883870454,0.0164259680131669,NA,"Fgf1",1
+"GO:0072088","nephron epithelium morphogenesis","1/2","88/28943",0.00607177800994652,0.0164259680131669,NA,"Fgf1",1
+"GO:0072028","nephron morphogenesis","1/2","90/28943",0.0062095580825281,0.0164259680131669,NA,"Fgf1",1
+"GO:0061333","renal tubule morphogenesis","1/2","92/28943",0.00634732860479026,0.0164259680131669,NA,"Fgf1",1
+"GO:0044344","cellular response to fibroblast growth factor stimulus","1/2","96/28943",0.00662284099835575,0.0164259680131669,NA,"Fgf1",1
+"GO:0001570","vasculogenesis","1/2","97/28943",0.00669171312779715,0.0164259680131669,NA,"Fgf1",1
+"GO:0071774","response to fibroblast growth factor","1/2","98/28943",0.00676058286965919,0.0164259680131669,NA,"Fgf1",1
+"GO:0051781","positive regulation of cell division","1/2","100/28943",0.00689831519064288,0.0164259680131669,NA,"Fgf1",1
+"GO:0032147","activation of protein kinase activity","1/2","101/28943",0.00696717776976519,0.0164259680131669,NA,"Fgf1",1
+"GO:0009408","response to heat","1/2","102/28943",0.00703603796130725,0.0164259680131669,NA,"Fgf1",1
+"GO:0072080","nephron tubule development","1/2","105/28943",0.00724260421045442,0.0164259680131669,NA,"Fgf1",1
+"GO:0001657","ureteric bud development","1/2","107/28943",0.00738030310532012,0.0164259680131669,NA,"Fgf1",1
+"GO:0060993","kidney morphogenesis","1/2","107/28943",0.00738030310532012,0.0164259680131669,NA,"Fgf1",1
+"GO:0010595","positive regulation of endothelial cell migration","1/2","110/28943",0.00758683354076894,0.0164259680131669,NA,"Fgf1",1
+"GO:0046889","positive regulation of lipid biosynthetic process","1/2","110/28943",0.00758683354076894,0.0164259680131669,NA,"Fgf1",1
+"GO:0072163","mesonephric epithelium development","1/2","110/28943",0.00758683354076894,0.0164259680131669,NA,"Fgf1",1
+"GO:0072164","mesonephric tubule development","1/2","110/28943",0.00758683354076894,0.0164259680131669,NA,"Fgf1",1
+"GO:0061326","renal tubule development","1/2","111/28943",0.00765567224409214,0.0164259680131669,NA,"Fgf1",1
+"GO:0001823","mesonephros development","1/2","113/28943",0.0077933424879989,0.0164259680131669,NA,"Fgf1",1
+"GO:0055017","cardiac muscle tissue growth","1/2","113/28943",0.0077933424879989,0.0164259680131669,NA,"Fgf1",1
+"GO:0019218","regulation of steroid metabolic process","1/2","117/28943",0.00806865432485415,0.0167485703409851,NA,"Fgf1",1
+"GO:0072009","nephron epithelium development","1/2","120/28943",0.00827511313290619,0.0169207537195246,NA,"Fgf1",1
+"GO:0060419","heart growth","1/2","123/28943",0.00848155045273968,0.0170878295886079,NA,"Fgf1",1
+"GO:0002040","sprouting angiogenesis","1/2","125/28943",0.00861916339472901,0.0171134113779402,NA,"Fgf1",1
+"GO:0043406","positive regulation of MAP kinase activity","1/2","130/28943",0.0089631539670546,0.0175421727640926,NA,"Fgf1",1
+"GO:2000027","regulation of animal organ morphogenesis","1/2","133/28943",0.00916951965949153,0.0176932984978921,NA,"Fgf1",1
+"GO:0001889","liver development","1/2","137/28943",0.00944464048995552,0.0177546942309643,NA,"Fgf1",1
+"GO:0003158","endothelium development","1/2","138/28943",0.00951341472862177,0.0177546942309643,NA,"Fgf1",1
+"GO:0061008","hepaticobiliary system development","1/2","140/28943",0.00965095604321442,0.0177546942309643,NA,"Fgf1",1
+"GO:0046165","alcohol biosynthetic process","1/2","141/28943",0.00971972311914104,0.0177546942309643,NA,"Fgf1",1
+"GO:0008203","cholesterol metabolic process","1/2","145/28943",0.00999476754704887,0.0180168836045486,NA,"Fgf1",1
+"GO:0016125","sterol metabolic process","1/2","154/28943",0.010613477836417,0.018536038593754,NA,"Fgf1",1
+"GO:0072073","kidney epithelium development","1/2","155/28943",0.0106822114862253,0.018536038593754,NA,"Fgf1",1
+"GO:0022612","gland morphogenesis","1/2","157/28943",0.0108196716231018,0.018536038593754,NA,"Fgf1",1
+"GO:1902652","secondary alcohol metabolic process","1/2","158/28943",0.0108883981101703,0.018536038593754,NA,"Fgf1",1
+"GO:0010634","positive regulation of epithelial cell migration","1/2","160/28943",0.0110258439215676,0.018536038593754,NA,"Fgf1",1
+"GO:0072006","nephron development","1/2","161/28943",0.0110945632458965,0.018536038593754,NA,"Fgf1",1
+"GO:0006694","steroid biosynthetic process","1/2","169/28943",0.0116442318876512,0.0192199972121471,NA,"Fgf1",1
+"GO:0062013","positive regulation of small molecule metabolic process","1/2","172/28943",0.0118503182332411,0.0193155130740723,NA,"Fgf1",1
+"GO:0009266","response to temperature stimulus","1/2","174/28943",0.0119876971924018,0.0193155130740723,NA,"Fgf1",1
+"GO:0010594","regulation of endothelial cell migration","1/2","176/28943",0.0121250666012425,0.0193155130740723,NA,"Fgf1",1
+"GO:0045766","positive regulation of angiogenesis","1/2","182/28943",0.0125371175258481,0.0195180125118317,NA,"Fgf1",1
+"GO:1904018","positive regulation of vasculature development","1/2","182/28943",0.0125371175258481,0.0195180125118317,NA,"Fgf1",1
+"GO:0045834","positive regulation of lipid metabolic process","1/2","188/28943",0.0129490824975778,0.0199328573277321,NA,"Fgf1",1
+"GO:0048754","branching morphogenesis of an epithelial tube","1/2","191/28943",0.013155032751114,0.0200248831878068,NA,"Fgf1",1
+"GO:0043405","regulation of MAP kinase activity","1/2","198/28943",0.0136354997774023,0.0203050377120013,NA,"Fgf1",1
+"GO:0051302","regulation of cell division","1/2","198/28943",0.0136354997774023,0.0203050377120013,NA,"Fgf1",1
+"GO:0071902","positive regulation of protein serine/threonine kinase activity","1/2","204/28943",0.0140472355414627,0.0205731002583181,NA,"Fgf1",1
+"GO:0046890","regulation of lipid biosynthetic process","1/2","205/28943",0.0141158498122766,0.0205731002583181,NA,"Fgf1",1
+"GO:0035265","organ growth","1/2","218/28943",0.0150076180630856,0.0216425649962392,NA,"Fgf1",1
+"GO:0070374","positive regulation of ERK1 and ERK2 cascade","1/2","227/28943",0.0156247597124677,0.0218148430548965,NA,"Fgf1",1
+"GO:0061138","morphogenesis of a branching epithelium","1/2","229/28943",0.0157618760378405,0.0218148430548965,NA,"Fgf1",1
+"GO:0050920","regulation of chemotaxis","1/2","231/28943",0.015898982812894,0.0218148430548965,NA,"Fgf1",1
+"GO:0050679","positive regulation of epithelial cell proliferation","1/2","232/28943",0.0159675326190509,0.0218148430548965,NA,"Fgf1",1
+"GO:0043542","endothelial cell migration","1/2","234/28943",0.0161046250686245,0.0218148430548965,NA,"Fgf1",1
+"GO:1901617","organic hydroxy compound biosynthetic process","1/2","234/28943",0.0161046250686245,0.0218148430548965,NA,"Fgf1",1
+"GO:0030324","lung development","1/2","236/28943",0.0162417079678792,0.0218148430548965,NA,"Fgf1",1
+"GO:0030323","respiratory tube development","1/2","239/28943",0.0164473144099113,0.0218765249918238,NA,"Fgf1",1
+"GO:0010632","regulation of epithelial cell migration","1/2","248/28943",0.0170640048066949,0.0223538516313058,NA,"Fgf1",1
+"GO:0001763","morphogenesis of a branching structure","1/2","249/28943",0.0171325140239935,0.0223538516313058,NA,"Fgf1",1
+"GO:0033002","muscle cell proliferation","1/2","266/28943",0.018296805418349,0.0235144132459037,NA,"Fgf1",1
+"GO:0060541","respiratory system development","1/2","267/28943",0.0183652716592094,0.0235144132459037,NA,"Fgf1",1
+"GO:0048738","cardiac muscle tissue development","1/2","271/28943",0.0186391127468538,0.0236440596881386,NA,"Fgf1",1
+"GO:0060560","developmental growth involved in morphogenesis","1/2","278/28943",0.0191182427284051,0.0240293509522156,NA,"Fgf1",1
+"GO:0014706","striated muscle tissue development","1/2","291/28943",0.0200077451659011,0.0249187371611677,NA,"Fgf1",1
+"GO:0045765","regulation of angiogenesis","1/2","308/28943",0.0211703318282166,0.0261291482924835,NA,"Fgf1",1
+"GO:1901342","regulation of vasculature development","1/2","312/28943",0.0214437813527588,0.0261639590722874,NA,"Fgf1",1
+"GO:0060326","cell chemotaxis","1/2","314/28943",0.0215804917895509,0.0261639590722874,NA,"Fgf1",1
+"GO:0090287","regulation of cellular response to growth factor stimulus","1/2","318/28943",0.0218538840121759,0.0262630009620009,NA,"Fgf1",1
+"GO:0070372","regulation of ERK1 and ERK2 cascade","1/2","326/28943",0.0224005538535919,0.0264180564026518,NA,"Fgf1",1
+"GO:0010631","epithelial cell migration","1/2","328/28943",0.0225371974381467,0.0264180564026518,NA,"Fgf1",1
+"GO:0090132","epithelium migration","1/2","330/28943",0.0226738314723822,0.0264180564026518,NA,"Fgf1",1
+"GO:0090130","tissue migration","1/2","332/28943",0.0228104559562982,0.0264180564026518,NA,"Fgf1",1
+"GO:0001822","kidney development","1/2","334/28943",0.0229470708898947,0.0264180564026518,NA,"Fgf1",1
+"GO:0071900","regulation of protein serine/threonine kinase activity","1/2","347/28943",0.0238348351692321,0.026995340794764,NA,"Fgf1",1
+"GO:0072001","renal system development","1/2","348/28943",0.0239031080161222,0.026995340794764,NA,"Fgf1",1
+"GO:0070371","ERK1 and ERK2 cascade","1/2","350/28943",0.0240396465471621,0.026995340794764,NA,"Fgf1",1
+"GO:0008202","steroid metabolic process","1/2","354/28943",0.0243126949582835,0.0270799935714214,NA,"Fgf1",1
+"GO:0006066","alcohol metabolic process","1/2","359/28943",0.0246539517516373,0.0272386402417283,NA,"Fgf1",1
+"GO:0045860","positive regulation of protein kinase activity","1/2","363/28943",0.0249269142098829,0.0273198979740317,NA,"Fgf1",1
+"GO:0062012","regulation of small molecule metabolic process","1/2","368/28943",0.0252680635621424,0.0274740056191548,NA,"Fgf1",1
+"GO:0042060","wound healing","1/2","380/28943",0.0260865784744159,0.028140639771614,NA,"Fgf1",1
+"GO:0019216","regulation of lipid metabolic process","1/2","388/28943",0.0266320640762072,0.028281628493139,NA,"Fgf1",1
+"GO:0003002","regionalization","1/2","389/28943",0.0267002390323215,0.028281628493139,NA,"Fgf1",1
+"GO:0001655","urogenital system development","1/2","391/28943",0.0268365817818107,0.028281628493139,NA,"Fgf1",1
+"GO:0060562","epithelial tube morphogenesis","1/2","397/28943",0.0272455527283614,0.028493440639584,NA,"Fgf1",1
+"GO:0033674","positive regulation of kinase activity","1/2","440/28943",0.0301739958632266,0.0312216768864714,NA,"Fgf1",1
+"GO:0050678","regulation of epithelial cell proliferation","1/2","442/28943",0.0303100950795672,0.0312216768864714,NA,"Fgf1",1
+"GO:0001667","ameboidal-type cell migration","1/2","471/28943",0.0322824604993472,0.0330052021523177,NA,"Fgf1",1
+"GO:0048732","gland development","1/2","483/28943",0.0330980243628795,0.0335883654645517,NA,"Fgf1",1
+"GO:0007389","pattern specification process","1/2","493/28943",0.0337773982820355,0.0338453225422616,NA,"Fgf1",1
+"GO:0060537","muscle tissue development","1/2","494/28943",0.0338453225422616,0.0338453225422616,NA,"Fgf1",1
