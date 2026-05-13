@@ -11,6 +11,11 @@
 **/cisTarget_databases/
 **/databases/
 
+# Large resource/reference files
+**/resources/*.tbl
+**/resources/motifs-*
+**/resources/GSE*.txt
+
 # Large expression matrices (>100MB)
 **/exprMat.csv
 **/exprMat.tsv
