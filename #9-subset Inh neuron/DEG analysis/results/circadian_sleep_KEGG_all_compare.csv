@@ -1,0 +1,34 @@
+"","Cluster","group","othergroup","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"1","NA.circadian","NA","circadian","mmu05418","Fluid shear stress and atherosclerosis - Mus musculus (house mouse)","4/12","147/9392",2.58653022634864e-05,0.00240547311050423,0.00117074526034728,"11461/12313/12314/15516",4
+"2","NA.circadian","NA","circadian","mmu04971","Gastric acid secretion - Mus musculus (house mouse)","3/12","75/9392",0.000102184536267868,0.00361169107243355,0.00175781229331797,"11461/12313/12314",3
+"3","NA.circadian","NA","circadian","mmu05417","Lipid and atherosclerosis - Mus musculus (house mouse)","4/12","216/9392",0.000116506163626889,0.00361169107243355,0.00175781229331797,"12313/12314/14828/15516",4
+"4","NA.circadian","NA","circadian","mmu04912","GnRH signaling pathway - Mus musculus (house mouse)","3/12","90/9392",0.00017586760902589,0.0039920968680132,0.00194295603083834,"12313/12314/13653",3
+"5","NA.circadian","NA","circadian","mmu05132","Salmonella infection - Mus musculus (house mouse)","4/12","253/9392",0.000214628863871678,0.0039920968680132,0.00194295603083834,"11461/56455/14433/15516",4
+"6","NA.circadian","NA","circadian","mmu04744","Phototransduction - Mus musculus (house mouse)","2/12","27/9392",0.000516060692659399,0.00705209315084962,0.00343225812661611,"12313/12314",2
+"7","NA.circadian","NA","circadian","mmu04915","Estrogen signaling pathway - Mus musculus (house mouse)","3/12","133/9392",0.000556267938880445,0.00705209315084962,0.00343225812661611,"12313/12314/15516",3
+"8","NA.circadian","NA","circadian","mmu04371","Apelin signaling pathway - Mus musculus (house mouse)","3/12","137/9392",0.00060663166889029,0.00705209315084962,0.00343225812661611,"12313/12314/13653",3
+"9","NA.circadian","NA","circadian","mmu04921","Oxytocin signaling pathway - Mus musculus (house mouse)","3/12","153/9392",0.000837183624302327,0.00865089745112405,0.00421039717485381,"11461/12313/12314",3
+"10","NA.circadian","NA","circadian","mmu04217","Necroptosis - Mus musculus (house mouse)","3/12","175/9392",0.00123603519878839,0.011495127348732,0.00559468563662112,"14319/15516/268373",3
+"11","NA.circadian","NA","circadian","mmu04015","Rap1 signaling pathway - Mus musculus (house mouse)","3/12","214/9392",0.00220425516045002,0.0186359754474411,0.00907014085161253,"11461/12313/12314",3
+"12","NA.circadian","NA","circadian","mmu04720","Long-term potentiation - Mus musculus (house mouse)","2/12","67/9392",0.00315972902727326,0.0227136607418024,0.0110547528228354,"12313/12314",2
+"13","NA.circadian","NA","circadian","mmu05031","Amphetamine addiction - Mus musculus (house mouse)","2/12","69/9392",0.00334790106136843,0.0227136607418024,0.0110547528228354,"12313/12314",2
+"14","NA.circadian","NA","circadian","mmu05214","Glioma - Mus musculus (house mouse)","2/12","74/9392",0.00384085601574909,0.0227136607418024,0.0110547528228354,"12313/12314",2
+"15","NA.circadian","NA","circadian","mmu05012","Parkinson disease - Mus musculus (house mouse)","3/12","264/9392",0.00400171075296943,0.0227136607418024,0.0110547528228354,"12313/12314/14828",3
+"16","NA.circadian","NA","circadian","mmu04924","Renin secretion - Mus musculus (house mouse)","2/12","76/9392",0.00404698748365438,0.0227136607418024,0.0110547528228354,"12313/12314",2
+"17","NA.circadian","NA","circadian","mmu05133","Pertussis - Mus musculus (house mouse)","2/12","77/9392",0.004151959490437,0.0227136607418024,0.0110547528228354,"12313/12314",2
+"18","NA.circadian","NA","circadian","mmu04970","Salivary secretion - Mus musculus (house mouse)","2/12","86/9392",0.00515338261708016,0.0266258101882475,0.0129587983938273,"12313/12314",2
+"19","NA.circadian","NA","circadian","mmu04612","Antigen processing and presentation - Mus musculus (house mouse)","2/12","90/9392",0.00563086130814414,0.0275615842977582,0.013414240235468,"14828/15516",2
+"20","NA.circadian","NA","circadian","mmu04070","Phosphatidylinositol signaling system - Mus musculus (house mouse)","2/12","96/9392",0.00638393149094445,0.0288915347644261,0.0140615279555215,"12313/12314",2
+"21","NA.circadian","NA","circadian","mmu04713","Circadian entrainment - Mus musculus (house mouse)","2/12","98/9392",0.00664469280245139,0.0288915347644261,0.0140615279555215,"12313/12314",2
+"22","NA.circadian","NA","circadian","mmu04916","Melanogenesis - Mus musculus (house mouse)","2/12","100/9392",0.00691028604764232,0.0288915347644261,0.0140615279555215,"12313/12314",2
+"23","NA.circadian","NA","circadian","mmu04925","Aldosterone synthesis and secretion - Mus musculus (house mouse)","2/12","102/9392",0.0071806891101678,0.0288915347644261,0.0140615279555215,"12313/12314",2
+"24","NA.circadian","NA","circadian","mmu04922","Glucagon signaling pathway - Mus musculus (house mouse)","2/12","104/9392",0.00745587993920675,0.0288915347644261,0.0140615279555215,"12313/12314",2
+"25","NA.circadian","NA","circadian","mmu04625","C-type lectin receptor signaling pathway - Mus musculus (house mouse)","2/12","112/9392",0.00860408218906651,0.0320071857433274,0.0155779172265204,"12313/12314",2
+"26","NA.circadian","NA","circadian","mmu04114","Oocyte meiosis - Mus musculus (house mouse)","2/12","121/9392",0.00998521847084418,0.0343935302884633,0.0167393526021949,"12313/12314",2
+"27","NA.circadian","NA","circadian","mmu04722","Neurotrophin signaling pathway - Mus musculus (house mouse)","2/12","121/9392",0.00998521847084418,0.0343935302884633,0.0167393526021949,"12313/12314",2
+"28","NA.circadian","NA","circadian","mmu04750","Inflammatory mediator regulation of TRP channels - Mus musculus (house mouse)","2/12","127/9392",0.0109576394079344,0.0360639027188862,0.0175523239039288,"12313/12314",2
+"29","NA.circadian","NA","circadian","mmu05010","Alzheimer disease - Mus musculus (house mouse)","3/12","383/9392",0.0112457331058892,0.0360639027188862,0.0175523239039288,"12313/12314/14433",3
+"30","NA.circadian","NA","circadian","mmu04728","Dopaminergic synapse - Mus musculus (house mouse)","2/12","135/9392",0.0123173489333905,0.0381837816935105,0.0185840703205541,"12313/12314",2
+"31","NA.circadian","NA","circadian","mmu04910","Insulin signaling pathway - Mus musculus (house mouse)","2/12","139/9392",0.0130238874081927,0.039071662224578,0.0190162023277516,"12313/12314",2
+"32","NA.circadian","NA","circadian","mmu04270","Vascular smooth muscle contraction - Mus musculus (house mouse)","2/12","144/9392",0.0139317430584134,0.0404891282635139,0.0197060839313084,"12313/12314",2
+"33","NA.circadian","NA","circadian","mmu04261","Adrenergic signaling in cardiomyocytes - Mus musculus (house mouse)","2/12","156/9392",0.0162206439357859,0.045712723819033,0.0222484111399934,"12313/12314",2

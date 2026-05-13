@@ -1,0 +1,36 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0051260","protein homooligomerization","2/3","187/28943",0.000124036356905562,0.00198636914617265,NA,"Kcnb2/Kcnd2",2
+"GO:0071805","potassium ion transmembrane transport","2/3","207/28943",0.000151995605425797,0.00198636914617265,NA,"Kcnb2/Kcnd2",2
+"GO:0006813","potassium ion transport","2/3","244/28943",0.000211162841360163,0.00198636914617265,NA,"Kcnb2/Kcnd2",2
+"GO:0051259","protein complex oligomerization","2/3","253/28943",0.000227013616705445,0.00198636914617265,NA,"Kcnb2/Kcnd2",2
+"GO:0098962","regulation of postsynaptic neurotransmitter receptor activity","1/3","21/28943",0.00217518827283081,0.0129457594449806,NA,"Dlgap1",1
+"GO:0045475","locomotor rhythm","1/3","22/28943",0.00227868991293811,0.0129457594449806,NA,"Kcnd2",1
+"GO:0070841","inclusion body assembly","1/3","25/28943",0.00258915188899611,0.0129457594449806,NA,"Dlgap1",1
+"GO:0019228","neuronal action potential","1/3","55/28943",0.00569023013626657,0.0211118714572684,NA,"Kcnd2",1
+"GO:0086001","cardiac muscle cell action potential","1/3","59/28943",0.00610322093254845,0.0211118714572684,NA,"Kcnd2",1
+"GO:0048512","circadian behavior","1/3","63/28943",0.00651609735467096,0.0211118714572684,NA,"Kcnd2",1
+"GO:0007622","rhythmic behavior","1/3","66/28943",0.00682567962274927,0.0211118714572684,NA,"Kcnd2",1
+"GO:0099601","regulation of neurotransmitter receptor activity","1/3","70/28943",0.00723835592820632,0.0211118714572684,NA,"Dlgap1",1
+"GO:0035418","protein localization to synapse","1/3","89/28943",0.00919700732225082,0.024761173559906,NA,"Dlgap1",1
+"GO:0019226","transmission of nerve impulse","1/3","99/28943",0.0102268409301303,0.0255671023253257,NA,"Kcnd2",1
+"GO:0071456","cellular response to hypoxia","1/3","110/28943",0.0113588334132859,0.0259507900640362,NA,"Kcnd2",1
+"GO:1902414","protein localization to cell junction","1/3","123/28943",0.01269552955831,0.0259507900640362,NA,"Dlgap1",1
+"GO:0036294","cellular response to decreased oxygen levels","1/3","135/28943",0.0139283330287736,0.0259507900640362,NA,"Kcnd2",1
+"GO:0010469","regulation of signaling receptor activity","1/3","147/28943",0.0151601098403802,0.0259507900640362,NA,"Dlgap1",1
+"GO:0001508","action potential","1/3","148/28943",0.0152627115791802,0.0259507900640362,NA,"Kcnd2",1
+"GO:0019233","sensory perception of pain","1/3","150/28943",0.0154678936779534,0.0259507900640362,NA,"Kcnd2",1
+"GO:0071453","cellular response to oxygen levels","1/3","151/28943",0.0155704740384217,0.0259507900640362,NA,"Kcnd2",1
+"GO:0035637","multicellular organismal signaling","1/3","163/28943",0.0168008826368183,0.026728676922211,NA,"Kcnd2",1
+"GO:0061136","regulation of proteasomal protein catabolic process","1/3","186/28943",0.019156299284173,0.0291297591435296,NA,"Dlgap1",1
+"GO:0031644","regulation of nervous system process","1/3","194/28943",0.0199746919841346,0.0291297591435296,NA,"Dlgap1",1
+"GO:0001666","response to hypoxia","1/3","219/28943",0.022529234823582,0.0296015498580688,NA,"Kcnd2",1
+"GO:1903050","regulation of proteolysis involved in protein catabolic process","1/3","219/28943",0.022529234823582,0.0296015498580688,NA,"Dlgap1",1
+"GO:0007623","circadian rhythm","1/3","222/28943",0.0228354813190816,0.0296015498580688,NA,"Kcnd2",1
+"GO:0036293","response to decreased oxygen levels","1/3","246/28943",0.0252831508383443,0.0316039385479304,NA,"Kcnd2",1
+"GO:0007626","locomotory behavior","1/3","266/28943",0.0273197503669933,0.0329721125118885,NA,"Kcnd2",1
+"GO:0070482","response to oxygen levels","1/3","305/28943",0.0312829559760016,0.0345486873005709,NA,"Kcnd2",1
+"GO:0048511","rhythmic process","1/3","306/28943",0.0313844348199176,0.0345486873005709,NA,"Kcnd2",1
+"GO:0072659","protein localization to plasma membrane","1/3","308/28943",0.0315873712462362,0.0345486873005709,NA,"Kcnb2",1
+"GO:0042176","regulation of protein catabolic process","1/3","355/28943",0.0363482211367666,0.038551143629904,NA,"Dlgap1",1
+"GO:1990778","protein localization to cell periphery","1/3","377/28943",0.0385713324777615,0.0397057834329897,NA,"Kcnb2",1
+"GO:0042391","regulation of membrane potential","1/3","469/28943",0.0478309367762648,0.0478309367762648,NA,"Kcnd2",1

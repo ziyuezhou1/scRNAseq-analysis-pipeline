@@ -1,0 +1,30 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0035791","platelet-derived growth factor receptor-beta signaling pathway","1/2","14/28943",0.00096720144978224,0.0136190149708262,NA,"Hip1",1
+"GO:0048268","clathrin coat assembly","1/2","17/28943",0.00117439802001995,0.0136190149708262,NA,"Hip1",1
+"GO:0010640","regulation of platelet-derived growth factor receptor signaling pathway","1/2","25/28943",0.00172681715380563,0.0136190149708262,NA,"Hip1",1
+"GO:0045742","positive regulation of epidermal growth factor receptor signaling pathway","1/2","32/28943",0.00221005854792355,0.0136190149708262,NA,"Hip1",1
+"GO:1901186","positive regulation of ERBB signaling pathway","1/2","34/28943",0.00234810602945279,0.0136190149708262,NA,"Hip1",1
+"GO:0072583","clathrin-dependent endocytosis","1/2","45/28943",0.00310719646590041,0.014190845215919,NA,"Hip1",1
+"GO:0048260","positive regulation of receptor-mediated endocytosis","1/2","62/28943",0.00427976798730645,0.014190845215919,NA,"Hip1",1
+"GO:0048008","platelet-derived growth factor receptor signaling pathway","1/2","67/28943",0.00462451064729674,0.014190845215919,NA,"Hip1",1
+"GO:0042058","regulation of epidermal growth factor receptor signaling pathway","1/2","70/28943",0.00483132759233207,0.014190845215919,NA,"Hip1",1
+"GO:1901184","regulation of ERBB signaling pathway","1/2","75/28943",0.0051759747491269,0.014190845215919,NA,"Hip1",1
+"GO:0006919","activation of cysteine-type endopeptidase activity involved in apoptotic process","1/2","78/28943",0.00538273439224513,0.014190845215919,NA,"Hip1",1
+"GO:0007173","epidermal growth factor receptor signaling pathway","1/2","104/28943",0.0071737511816522,0.0158716398003484,NA,"Hip1",1
+"GO:0038127","ERBB signaling pathway","1/2","117/28943",0.00806865432485415,0.0158716398003484,NA,"Hip1",1
+"GO:0048259","regulation of receptor-mediated endocytosis","1/2","125/28943",0.00861916339472901,0.0158716398003484,NA,"Hip1",1
+"GO:0043280","positive regulation of cysteine-type endopeptidase activity involved in apoptotic process","1/2","127/28943",0.00875676678639914,0.0158716398003484,NA,"Hip1",1
+"GO:0045807","positive regulation of endocytosis","1/2","127/28943",0.00875676678639914,0.0158716398003484,NA,"Hip1",1
+"GO:2001056","positive regulation of cysteine-type endopeptidase activity","1/2","149/28943",0.0102697737736781,0.0175190258492156,NA,"Hip1",1
+"GO:0010950","positive regulation of endopeptidase activity","1/2","170/28943",0.0117129297237611,0.0188708312216152,NA,"Hip1",1
+"GO:0010952","positive regulation of peptidase activity","1/2","180/28943",0.0123997767679657,0.018925975066895,NA,"Hip1",1
+"GO:0050821","protein stabilization","1/2","193/28943",0.0132923209822384,0.0192738654242457,NA,"Hip1",1
+"GO:0043281","regulation of cysteine-type endopeptidase activity involved in apoptotic process","1/2","211/28943",0.0145274852979814,0.0200617654114982,NA,"Hip1",1
+"GO:0030100","regulation of endocytosis","1/2","236/28943",0.0162417079678792,0.0210835332299386,NA,"Hip1",1
+"GO:2000116","regulation of cysteine-type endopeptidase activity","1/2","243/28943",0.016721422906503,0.0210835332299386,NA,"Hip1",1
+"GO:0006898","receptor-mediated endocytosis","1/2","274/28943",0.0188444684929979,0.0227703994290392,NA,"Hip1",1
+"GO:0031647","regulation of protein stability","1/2","312/28943",0.0214437813527588,0.0248747863692002,NA,"Hip1",1
+"GO:0045862","positive regulation of proteolysis","1/2","357/28943",0.0245174561970356,0.0266267664785812,NA,"Hip1",1
+"GO:0052548","regulation of endopeptidase activity","1/2","361/28943",0.0247904377559204,0.0266267664785812,NA,"Hip1",1
+"GO:0052547","regulation of peptidase activity","1/2","445/28943",0.0305142259972292,0.0315345582622532,NA,"Hip1",1
+"GO:0007015","actin filament organization","1/2","460/28943",0.0315345582622532,0.0315345582622532,NA,"Hip1",1
