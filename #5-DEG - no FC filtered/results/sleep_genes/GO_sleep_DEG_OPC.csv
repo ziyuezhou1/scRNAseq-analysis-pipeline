@@ -1,0 +1,45 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0002176","male germ cell proliferation","1/2","12/28943",0.000829058465057875,0.0113247880241518,NA,"Ptgds",1
+"GO:0036093","germ cell proliferation","1/2","14/28943",0.00096720144978224,0.0113247880241518,NA,"Ptgds",1
+"GO:0045187","regulation of circadian sleep/wake cycle, sleep","1/2","27/28943",0.00186489806145318,0.0113247880241518,NA,"Ptgds",1
+"GO:0050802","circadian sleep/wake cycle, sleep","1/2","29/28943",0.00200296941878098,0.0113247880241518,NA,"Ptgds",1
+"GO:0001516","prostaglandin biosynthetic process","1/2","30/28943",0.00207200151607478,0.0113247880241518,NA,"Ptgds",1
+"GO:0042749","regulation of circadian sleep/wake cycle","1/2","30/28943",0.00207200151607478,0.0113247880241518,NA,"Ptgds",1
+"GO:0046457","prostanoid biosynthetic process","1/2","30/28943",0.00207200151607478,0.0113247880241518,NA,"Ptgds",1
+"GO:0022410","circadian sleep/wake cycle process","1/2","32/28943",0.00221005854792355,0.0113247880241518,NA,"Ptgds",1
+"GO:0042745","circadian sleep/wake cycle","1/2","38/28943",0.00262417234155221,0.0113247880241518,NA,"Ptgds",1
+"GO:0030431","sleep","1/2","39/28943",0.00269318295062704,0.0113247880241518,NA,"Ptgds",1
+"GO:0006636","unsaturated fatty acid biosynthetic process","1/2","41/28943",0.00283119700603796,0.0113247880241518,NA,"Ptgds",1
+"GO:0046456","icosanoid biosynthetic process","1/2","51/28943",0.00352112402829785,0.0117167460996699,NA,"Ptgds",1
+"GO:0006692","prostanoid metabolic process","1/2","54/28943",0.00372805557716771,0.0117167460996699,NA,"Ptgds",1
+"GO:0006693","prostaglandin metabolic process","1/2","54/28943",0.00372805557716771,0.0117167460996699,NA,"Ptgds",1
+"GO:0048512","circadian behavior","1/2","63/28943",0.00434872129446406,0.0118268528467801,NA,"Ptgds",1
+"GO:0007622","rhythmic behavior","1/2","66/28943",0.00455556689045844,0.0118268528467801,NA,"Ptgds",1
+"GO:0043303","mast cell degranulation","1/2","71/28943",0.00490026179885106,0.0118268528467801,NA,"Ptgds",1
+"GO:0002448","mast cell mediated immunity","1/2","73/28943",0.00503812304914886,0.0118268528467801,NA,"Ptgds",1
+"GO:0002279","mast cell activation involved in immune response","1/2","74/28943",0.00510705009292778,0.0118268528467801,NA,"Ptgds",1
+"GO:2000242","negative regulation of reproductive process","1/2","80/28943",0.00552056221642483,0.0121452368761346,NA,"Ptgds",1
+"GO:0045576","mast cell activation","1/2","99/28943",0.0068294502239411,0.0125046165468743,NA,"Ptgds",1
+"GO:0043299","leukocyte degranulation","1/2","101/28943",0.00696717776976519,0.0125046165468743,NA,"Ptgds",1
+"GO:0032418","lysosome localization","1/2","103/28943",0.00710489576526951,0.0125046165468743,NA,"Ptgds",1
+"GO:0050795","regulation of behavior","1/2","103/28943",0.00710489576526951,0.0125046165468743,NA,"Ptgds",1
+"GO:1990849","vacuolar localization","1/2","103/28943",0.00710489576526951,0.0125046165468743,NA,"Ptgds",1
+"GO:0002275","myeloid cell activation involved in immune response","1/2","120/28943",0.00827511313290619,0.0139123746557803,NA,"Ptgds",1
+"GO:0042752","regulation of circadian rhythm","1/2","129/28943",0.00889436062774951,0.0139123746557803,NA,"Ptgds",1
+"GO:0002444","myeloid leukocyte mediated immunity","1/2","133/28943",0.00916951965949153,0.0139123746557803,NA,"Ptgds",1
+"GO:0033559","unsaturated fatty acid metabolic process","1/2","133/28943",0.00916951965949153,0.0139123746557803,NA,"Ptgds",1
+"GO:0006690","icosanoid metabolic process","1/2","142/28943",0.00978848780748787,0.0143564487843155,NA,"Ptgds",1
+"GO:0006633","fatty acid biosynthetic process","1/2","154/28943",0.010613477836417,0.0150642911226564,NA,"Ptgds",1
+"GO:0072330","monocarboxylic acid biosynthetic process","1/2","209/28943",0.0143902830197327,0.0197866391521324,NA,"Ptgds",1
+"GO:0007623","circadian rhythm","1/2","222/28943",0.0152819271163877,0.0200428202593562,NA,"Ptgds",1
+"GO:2000241","regulation of reproductive process","1/2","225/28943",0.0154876338367752,0.0200428202593562,NA,"Ptgds",1
+"GO:0002274","myeloid leukocyte activation","1/2","272/28943",0.0187075670498151,0.0235180842911962,NA,"Ptgds",1
+"GO:0045055","regulated exocytosis","1/2","291/28943",0.0200077451659011,0.023730207194372,NA,"Ptgds",1
+"GO:0046394","carboxylic acid biosynthetic process","1/2","298/28943",0.0204865408862682,0.023730207194372,NA,"Ptgds",1
+"GO:0016053","organic acid biosynthetic process","1/2","299/28943",0.0205549307245726,0.023730207194372,NA,"Ptgds",1
+"GO:0048511","rhythmic process","1/2","306/28943",0.0210335927404661,0.023730207194372,NA,"Ptgds",1
+"GO:0002366","leukocyte activation involved in immune response","1/2","328/28943",0.0225371974381467,0.024479513709198,NA,"Ptgds",1
+"GO:0002263","cell activation involved in immune response","1/2","332/28943",0.0228104559562982,0.024479513709198,NA,"Ptgds",1
+"GO:0006887","exocytosis","1/2","422/28943",0.0289486731517808,0.0303271813971037,NA,"Ptgds",1
+"GO:0006631","fatty acid metabolic process","1/2","453/28943",0.0310584700574787,0.0311945071967425,NA,"Ptgds",1
+"GO:0051656","establishment of organelle localization","1/2","455/28943",0.0311945071967425,0.0311945071967425,NA,"Ptgds",1

@@ -1,0 +1,459 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0006119","oxidative phosphorylation","12/149","140/28943",9.16622951473194e-12,2.50329728047329e-08,1.87570001859357e-08,"Cox4i1/Chchd2/Atp5h/Chchd10/Atp5k/Ndufb9/Cox7a2/Cycs/Ndufa5/Cox5b/Uqcrb/Snca",12
+"GO:0006091","generation of precursor metabolites and energy","18/149","465/28943",3.73222880218292e-11,3.58904303339939e-08,2.68924036189882e-08,"Gapdh/Aldoa/Cox4i1/Chchd2/Atp5h/Chchd10/Atp5k/Ndufb9/Cox7a2/Cycs/Ndufa5/Slc1a3/Cox5b/Uqcrb/Ndufa4/Phkb/Snca/Norad",18
+"GO:0045333","cellular respiration","14/149","245/28943",3.94255917253686e-11,3.58904303339939e-08,2.68924036189882e-08,"Cox4i1/Chchd2/Atp5h/Chchd10/Atp5k/Ndufb9/Cox7a2/Cycs/Ndufa5/Slc1a3/Cox5b/Uqcrb/Snca/Norad",14
+"GO:0022904","respiratory electron transport chain","10/149","96/28943",7.44606463820035e-11,5.08380063173129e-08,3.80924990964776e-08,"Cox4i1/Chchd2/Ndufb9/Cycs/Ndufa5/Slc1a3/Cox5b/Uqcrb/Snca/Norad",10
+"GO:1902904","negative regulation of supramolecular fiber organization","12/149","179/28943",1.64268055498995e-10,8.9723211913551e-08,6.72288631347465e-08,"Stmn1/Tmsb4x/Stmn2/Hspa8/Swap70/Carmil1/Cryab/Cfl1/Tubb4a/Ctnna2/Snca/Arpc2",12
+"GO:0022900","electron transport chain","10/149","107/28943",2.21050451237133e-10,9.30181741459204e-08,6.96977511764225e-08,"Cox4i1/Chchd2/Ndufb9/Cycs/Ndufa5/Slc1a3/Cox5b/Uqcrb/Snca/Norad",10
+"GO:0015980","energy derivation by oxidation of organic compounds","15/149","337/28943",2.57249603021879e-10,9.30181741459204e-08,6.96977511764225e-08,"Cox4i1/Chchd2/Atp5h/Chchd10/Atp5k/Ndufb9/Cox7a2/Cycs/Ndufa5/Slc1a3/Cox5b/Uqcrb/Phkb/Snca/Norad",15
+"GO:0009060","aerobic respiration","12/149","187/28943",2.72480920237043e-10,9.30181741459204e-08,6.96977511764225e-08,"Cox4i1/Chchd2/Atp5h/Chchd10/Atp5k/Ndufb9/Cox7a2/Cycs/Ndufa5/Cox5b/Uqcrb/Snca",12
+"GO:0022898","regulation of transmembrane transporter activity","14/149","303/28943",6.44641405440937e-10,1.95612853139911e-07,1.46571098500255e-07,"Calm1/Calm2/Ank2/Ywhah/Actb/Fgf14/Slc25a4/Fkbp1a/Cfl1/Atp1b1/Ndufa4/Ywhae/Snca/Nrxn1",14
+"GO:0032409","regulation of transporter activity","14/149","317/28943",1.15679707991139e-09,3.15921282523802e-07,2.36717212983974e-07,"Calm1/Calm2/Ank2/Ywhah/Actb/Fgf14/Slc25a4/Fkbp1a/Cfl1/Atp1b1/Ndufa4/Ywhae/Snca/Nrxn1",14
+"GO:0043270","positive regulation of ion transport","14/149","343/28943",3.18274787234476e-09,7.90189494488504e-07,5.92082475008442e-07,"Calm1/Calm2/Cck/Ank2/Pcp4/Rgs7/Fgf14/Grik1/Arl6ip1/Rtn4/Cfl1/Atp1b1/Ndufa4/Snca",14
+"GO:1904062","regulation of cation transmembrane transport","15/149","414/28943",4.27068294584902e-09,9.71936260426139e-07,7.2826382866057e-07,"Calm1/Calm2/Ank2/Ywhah/Rgs7/Fgf14/Slc25a4/Fkbp1a/Cfl1/Atp1b1/Ndufa4/Ywhae/Snca/Rgs2/Nrxn1",15
+"GO:0031333","negative regulation of protein-containing complex assembly","10/149","151/28943",6.50017171266446e-09,1.28541563901435e-06,9.63151343153227e-07,"Stmn1/Tmsb4x/Stmn2/Carmil1/Cryab/Cfl1/Tubb4a/Lmo4/Snca/Arpc2",10
+"GO:0050808","synapse organization","16/149","496/28943",6.5894613497623e-09,1.28541563901435e-06,9.63151343153227e-07,"Malat1/Hspa8/Actb/Chchd10/Tuba1a/Rab3a/Tubb5/Septin7/Sncb/C1ql3/Ywhaz/Cfl1/Ctnna2/Snca/Dock10/Nrxn1",16
+"GO:0032272","negative regulation of protein polymerization","8/149","84/28943",1.27889604511721e-08,2.32844339947673e-06,1.74468344681253e-06,"Stmn1/Tmsb4x/Stmn2/Carmil1/Cfl1/Tubb4a/Snca/Arpc2",8
+"GO:1902903","regulation of supramolecular fiber organization","14/149","389/28943",1.56465060003948e-08,2.67066299294238e-06,2.00110576741891e-06,"Stmn1/Tmsb4x/Stmn2/Hspa8/Swap70/Carmil1/Actg1/Cryab/Cfl1/Tubb4a/Dstn/Ctnna2/Snca/Arpc2",14
+"GO:0006457","protein folding","10/149","169/28943",1.91513567561572e-08,3.07660913535678e-06,2.30527786588047e-06,"Ppia/Hsp90ab1/Hspa8/Hsp90aa1/Hspa5/Cryab/Fkbp1a/Dnaja1/Hsp90b1/Nudc",10
+"GO:1902600","proton transmembrane transport","8/149","90/28943",2.21562664371106e-08,3.23083485569402e-06,2.42083792690905e-06,"Atp6v0c/Atp5g1/Atp5g3/Slc25a4/Atp6v1e1/Atp1b1/Ndufa4/Atp6v1f",8
+"GO:0042391","regulation of membrane potential","15/149","469/28943",2.24774303398705e-08,3.23083485569402e-06,2.42083792690905e-06,"Cck/Ank2/Ubb/Ywhah/Atp5g1/Rgs7/Fgf14/Chchd10/Kcnma1/Grik1/Atp1b1/Ywhae/Snca/Kcnk2/Nrxn1",15
+"GO:0051494","negative regulation of cytoskeleton organization","10/149","177/28943",2.97373242660208e-08,4.06063162852513e-06,3.04259780911286e-06,"Stmn1/Tmsb4x/Stmn2/Swap70/Carmil1/Cfl1/Tubb4a/Ctnna2/Snca/Arpc2",10
+"GO:0035304","regulation of protein dephosphorylation","8/149","96/28943",3.69289869843378e-08,4.80252683115364e-06,3.59849376930089e-06,"Calm1/Calm2/Ppia/Hsp90ab1/Swap70/Ywhae/Hsp90b1/Ywhab",8
+"GO:0007409","axonogenesis","15/149","493/28943",4.32562712291225e-08,5.36967621485153e-06,4.02345412772317e-06,"Stmn1/Hsp90ab1/Olfm1/Cck/Uchl1/Actb/Hsp90aa1/Atp5g1/Rab3a/Septin7/Chn1/Rtn4/Sema6d/Lama3/Ctnna2",15
+"GO:0031346","positive regulation of cell projection organization","14/149","441/28943",7.42200264039052e-08,8.81282139604631e-06,6.60337443154196e-06,"Dynll1/Stmn2/Pcp4/Hspa5/Atp5g1/Eef1a1/Carmil1/Septin7/Cfl1/Nme1/Enc1/Rgs2/Arpc2/Nrxn1",14
+"GO:0009205","purine ribonucleoside triphosphate metabolic process","11/149","251/28943",8.06712973150654e-08,9.1713452943092e-06,6.87201343334313e-06,"Gapdh/Aldoa/Hspa8/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Atp1b1/Nme1",11
+"GO:0042775","mitochondrial ATP synthesis coupled electron transport","7/149","71/28943",8.39559254330758e-08,9.1713452943092e-06,6.87201343334313e-06,"Cox4i1/Chchd2/Ndufb9/Cycs/Cox5b/Uqcrb/Snca",7
+"GO:0042773","ATP synthesis coupled electron transport","7/149","73/28943",1.01981475655114e-07,9.3870662313615e-06,7.03365135337615e-06,"Cox4i1/Chchd2/Ndufb9/Cycs/Cox5b/Uqcrb/Snca",7
+"GO:0009144","purine nucleoside triphosphate metabolic process","11/149","257/28943",1.02433833069407e-07,9.3870662313615e-06,7.03365135337615e-06,"Gapdh/Aldoa/Hspa8/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Atp1b1/Nme1",11
+"GO:0009199","ribonucleoside triphosphate metabolic process","11/149","257/28943",1.02433833069407e-07,9.3870662313615e-06,7.03365135337615e-06,"Gapdh/Aldoa/Hspa8/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Atp1b1/Nme1",11
+"GO:0010563","negative regulation of phosphorus metabolic process","14/149","453/28943",1.0311680224857e-07,9.3870662313615e-06,7.03365135337615e-06,"Ppia/Dynll1/Uchl1/Pcp4/Actb/Swap70/Camk2n1/Il18/Pebp1/Dnaja1/Ywhae/Snca/Rgs2/Ywhab",14
+"GO:0045936","negative regulation of phosphate metabolic process","14/149","453/28943",1.0311680224857e-07,9.3870662313615e-06,7.03365135337615e-06,"Ppia/Dynll1/Uchl1/Pcp4/Actb/Swap70/Camk2n1/Il18/Pebp1/Dnaja1/Ywhae/Snca/Rgs2/Ywhab",14
+"GO:0042026","protein refolding","5/149","24/28943",1.32766139710853e-07,1.16962686306561e-05,8.76391767734801e-06,"Hspa8/Hsp90aa1/Hspa5/Cryab/Dnaja1",5
+"GO:0034767","positive regulation of ion transmembrane transport","10/149","213/28943",1.69169915989844e-07,1.39286967848069e-05,1.04366576922526e-05,"Calm1/Calm2/Ank2/Rgs7/Fgf14/Arl6ip1/Cfl1/Atp1b1/Ndufa4/Snca",10
+"GO:0009206","purine ribonucleoside triphosphate biosynthetic process","8/149","117/28943",1.7340742976325e-07,1.39286967848069e-05,1.04366576922526e-05,"Aldoa/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Nme1",8
+"GO:0051952","regulation of amine transport","8/149","117/28943",1.7340742976325e-07,1.39286967848069e-05,1.04366576922526e-05,"Cck/Pcp4/Rab3a/Grik1/Arl6ip1/Rtn4/Snca/Rgs2",8
+"GO:0009145","purine nucleoside triphosphate biosynthetic process","8/149","118/28943",1.85215395465241e-07,1.44520927147307e-05,1.08288339484039e-05,"Aldoa/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Nme1",8
+"GO:0009141","nucleoside triphosphate metabolic process","11/149","275/28943",2.02230846098758e-07,1.53414566859919e-05,1.14952270414031e-05,"Gapdh/Aldoa/Hspa8/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Atp1b1/Nme1",11
+"GO:0072521","purine-containing compound metabolic process","14/149","483/28943",2.2470291064266e-07,1.65855040260839e-05,1.24273814591559e-05,"Gapdh/Aldoa/Hspa8/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Hint1/Carmil1/Ndufa5/Atp1b1/Nme1/Snca",14
+"GO:0009201","ribonucleoside triphosphate biosynthetic process","8/149","122/28943",2.39611122327452e-07,1.67789224378531e-05,1.2572308280825e-05,"Aldoa/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Nme1",8
+"GO:0015837","amine transport","8/149","122/28943",2.39611122327452e-07,1.67789224378531e-05,1.2572308280825e-05,"Cck/Pcp4/Rab3a/Grik1/Arl6ip1/Rtn4/Snca/Rgs2",8
+"GO:0046034","ATP metabolic process","10/149","224/28943",2.69632398550719e-07,1.84091520110503e-05,1.37938258626999e-05,"Gapdh/Aldoa/Hspa8/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Atp1b1",10
+"GO:0051261","protein depolymerization","8/149","126/28943",3.07165385381461e-07,2.04602114018724e-05,1.53306677581915e-05,"Stmn1/Stmn2/Hspa8/Swap70/Carmil1/Cfl1/Dstn/Arpc2",8
+"GO:0009150","purine ribonucleotide metabolic process","13/149","425/28943",3.37900888807469e-07,2.14606355193767e-05,1.60802773033469e-05,"Gapdh/Aldoa/Hspa8/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Hint1/Ndufa5/Atp1b1/Nme1/Snca",13
+"GO:0043254","regulation of protein-containing complex assembly","13/149","425/28943",3.37900888807469e-07,2.14606355193767e-05,1.60802773033469e-05,"Stmn1/Tmsb4x/Cck/Stmn2/Hsp90aa1/Rab3a/Carmil1/Cryab/Cfl1/Tubb4a/Lmo4/Snca/Arpc2",13
+"GO:0051651","maintenance of location in cell","10/149","232/28943",3.72465116867576e-07,2.3071475047226e-05,1.72872660840669e-05,"Calm1/Fth1/Calm2/Tmsb4x/Ank2/Hspa5/Chchd10/Syne1/Fkbp1a/Snca",10
+"GO:0032412","regulation of ion transmembrane transporter activity","11/149","293/28943",3.80159786570916e-07,2.3071475047226e-05,1.72872660840669e-05,"Calm1/Calm2/Ank2/Ywhah/Fgf14/Fkbp1a/Cfl1/Atp1b1/Ndufa4/Ywhae/Nrxn1",11
+"GO:0009142","nucleoside triphosphate biosynthetic process","8/149","132/28943",4.3882175564229e-07,2.60526568404151e-05,1.952104102903e-05,"Aldoa/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Nme1",8
+"GO:0035303","regulation of dephosphorylation","8/149","136/28943",5.51197009850631e-07,3.20280645511079e-05,2.39983647737878e-05,"Calm1/Calm2/Ppia/Hsp90ab1/Swap70/Ywhae/Hsp90b1/Ywhab",8
+"GO:0009259","ribonucleotide metabolic process","13/149","445/28943",5.67494283277112e-07,3.2288060158954e-05,2.41931773397085e-05,"Gapdh/Aldoa/Hspa8/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Hint1/Ndufa5/Atp1b1/Nme1/Snca",13
+"GO:0006163","purine nucleotide metabolic process","13/149","449/28943",6.2741330235534e-07,3.49686883414783e-05,2.6201749941542e-05,"Gapdh/Aldoa/Hspa8/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Hint1/Ndufa5/Atp1b1/Nme1/Snca",13
+"GO:0019693","ribose phosphate metabolic process","13/149","456/28943",7.45996858341808e-07,4.07463484026296e-05,3.05309030024521e-05,"Gapdh/Aldoa/Hspa8/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Hint1/Ndufa5/Atp1b1/Nme1/Snca",13
+"GO:0032411","positive regulation of transporter activity","8/149","143/28943",8.0737107971827e-07,4.32339297786391e-05,3.23948272233708e-05,"Calm1/Calm2/Ank2/Fgf14/Slc25a4/Cfl1/Atp1b1/Ndufa4",8
+"GO:1901019","regulation of calcium ion transmembrane transporter activity","7/149","99/28943",8.33448135128574e-07,4.37720549430026e-05,3.27980399734807e-05,"Calm1/Calm2/Ank2/Fgf14/Fkbp1a/Atp1b1/Ywhae",7
+"GO:0031115","negative regulation of microtubule polymerization","4/149","15/28943",8.81033386803873e-07,4.53981543275731e-05,3.40164628390611e-05,"Stmn1/Stmn2/Tubb4a/Snca",4
+"GO:0009152","purine ribonucleotide biosynthetic process","9/149","200/28943",1.01635528466701e-06,5.14012274523261e-05,3.85145160505394e-05,"Aldoa/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Nme1/Snca",9
+"GO:0032535","regulation of cellular component size","12/149","398/28943",1.13196046843508e-06,5.62069825326582e-05,4.21154287203406e-05,"Hsp90ab1/Olfm1/Tmsb4x/Atp5g1/Swap70/Kcnma1/Carmil1/Rtn4/Cfl1/Sema6d/Dstn/Arpc2",12
+"GO:0050807","regulation of synapse organization","10/149","264/28943",1.20785785273173e-06,5.89046392108993e-05,4.41367606336558e-05,"Malat1/Hspa8/Tuba1a/Tubb5/C1ql3/Ywhaz/Cfl1/Ctnna2/Snca/Nrxn1",10
+"GO:0032271","regulation of protein polymerization","9/149","206/28943",1.29893306523604e-06,6.22348456343795e-05,4.66320568572274e-05,"Stmn1/Tmsb4x/Stmn2/Hsp90aa1/Carmil1/Cfl1/Tubb4a/Snca/Arpc2",9
+"GO:0006754","ATP biosynthetic process","7/149","106/28943",1.32402394570728e-06,6.23432654435617e-05,4.67132949265871e-05,"Aldoa/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5",7
+"GO:0071805","potassium ion transmembrane transport","9/149","207/28943",1.35208089137171e-06,6.25853036328159e-05,4.68946521467725e-05,"Calm1/Calm2/Ank2/Rgs7/Kcnma1/Slc1a3/Atp1b1/Ywhae/Kcnk2",9
+"GO:0050803","regulation of synapse structure or activity","10/149","272/28943",1.58023647815186e-06,7.1754682564102e-05,5.37651922005104e-05,"Malat1/Hspa8/Tuba1a/Tubb5/C1ql3/Ywhaz/Cfl1/Ctnna2/Snca/Nrxn1",10
+"GO:0034764","positive regulation of transmembrane transport","10/149","273/28943",1.63317371582714e-06,7.1754682564102e-05,5.37651922005104e-05,"Calm1/Calm2/Ank2/Rgs7/Fgf14/Arl6ip1/Cfl1/Atp1b1/Ndufa4/Snca",10
+"GO:0009260","ribonucleotide biosynthetic process","9/149","212/28943",1.646939648804e-06,7.1754682564102e-05,5.37651922005104e-05,"Aldoa/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Nme1/Snca",9
+"GO:0051235","maintenance of location","11/149","341/28943",1.67948610935362e-06,7.1754682564102e-05,5.37651922005104e-05,"Calm1/Fth1/Calm2/Tmsb4x/Ank2/Hspa5/Chchd10/Syne1/Fkbp1a/Snca/Ywhab",11
+"GO:0015986","proton motive force-driven ATP synthesis","6/149","70/28943",1.68154510585959e-06,7.1754682564102e-05,5.37651922005104e-05,"Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5",6
+"GO:1901881","positive regulation of protein depolymerization","4/149","18/28943",1.95144774734242e-06,8.19908276614175e-05,6.14350513495329e-05,"Stmn2/Carmil1/Cfl1/Dstn",4
+"GO:0006164","purine nucleotide biosynthetic process","9/149","217/28943",1.99569128183048e-06,8.25792862224099e-05,6.1875978498859e-05,"Aldoa/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Nme1/Snca",9
+"GO:0046390","ribose phosphate biosynthetic process","9/149","221/28943",2.31883558085993e-06,9.45185070347533e-05,7.08219382433889e-05,"Aldoa/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Nme1/Snca",9
+"GO:0072522","purine-containing compound biosynthetic process","9/149","225/28943",2.68607603607185e-06,0.000107877553742827,8.08317618285398e-05,"Aldoa/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Nme1/Snca",9
+"GO:0099558","maintenance of synapse structure","4/149","21/28943",3.77118346024447e-06,0.000149262348259821,0.000111841047242033,"Hspa8/Chchd10/Rab3a/Nrxn1",4
+"GO:1903427","negative regulation of reactive oxygen species biosynthetic process","4/149","22/28943",4.59079252570188e-06,0.000179106491252741,0.00013420301759345,"Atp5g1/Cycs/Eef1a1/Slc30a10",4
+"GO:0010639","negative regulation of organelle organization","11/149","380/28943",4.73899403869695e-06,0.000182284404502554,0.000136584201797285,"Stmn1/Tmsb4x/Stmn2/Swap70/Slc25a4/Carmil1/Cfl1/Tubb4a/Ctnna2/Snca/Arpc2",11
+"GO:0006813","potassium ion transport","9/149","244/28943",5.19582807405451e-06,0.00019708064542004,0.000147670903157339,"Calm1/Calm2/Ank2/Rgs7/Kcnma1/Slc1a3/Atp1b1/Ywhae/Kcnk2",9
+"GO:0031647","regulation of protein stability","10/149","312/28943",5.34751411970059e-06,0.000200055630971265,0.000149900035309271,"Gapdh/Hsp90ab1/Ank2/Hspa8/Hsp90aa1/Cryab/Rtn4/Atp1b1/Snca/D7Ertd443e",10
+"GO:0036465","synaptic vesicle recycling","6/149","86/28943",5.63544011037046e-06,0.000207978201911104,0.000155836352411951,"Actb/Fgf14/Rab3a/Actg1/Sncb/Snca",6
+"GO:1901021","positive regulation of calcium ion transmembrane transporter activity","5/149","50/28943",5.94227712353458e-06,0.000216378117658306,0.000162130340044228,"Calm1/Calm2/Ank2/Fgf14/Atp1b1",5
+"GO:0006942","regulation of striated muscle contraction","6/149","87/28943",6.02736792579139e-06,0.000216588707964951,0.000162288133625186,"Calm1/Calm2/Ank2/Atp1b1/Rgs2/Nr4a1",6
+"GO:0006936","muscle contraction","10/149","317/28943",6.14793626147212e-06,0.000218052128962083,0.000163384662915951,"Calm1/Calm2/Ank2/Aldoa/Kcnma1/Myl6/Fkbp1a/Atp1b1/Rgs2/Nr4a1",10
+"GO:0032414","positive regulation of ion transmembrane transporter activity","7/149","135/28943",6.64252760069709e-06,0.000230613192791424,0.000172796564507517,"Calm1/Calm2/Ank2/Fgf14/Cfl1/Atp1b1/Ndufa4",7
+"GO:0042326","negative regulation of phosphorylation","11/149","394/28943",6.67097848060143e-06,0.000230613192791424,0.000172796564507517,"Ppia/Dynll1/Uchl1/Pcp4/Actb/Camk2n1/Il18/Pebp1/Dnaja1/Snca/Rgs2",11
+"GO:1904064","positive regulation of cation transmembrane transport","8/149","191/28943",6.99190503730478e-06,0.000238686158210992,0.000178845570954217,"Calm1/Calm2/Ank2/Rgs7/Fgf14/Cfl1/Atp1b1/Snca",8
+"GO:0050821","protein stabilization","8/149","193/28943",7.54593674276457e-06,0.000254419175857902,0.000190634191396158,"Gapdh/Hsp90ab1/Ank2/Hsp90aa1/Cryab/Rtn4/Atp1b1/D7Ertd443e",8
+"GO:0051954","positive regulation of amine transport","5/149","53/28943",7.94903302625287e-06,0.000261551918008393,0.000195978696297217,"Cck/Pcp4/Grik1/Arl6ip1/Rtn4",5
+"GO:0051955","regulation of amino acid transport","5/149","53/28943",7.94903302625287e-06,0.000261551918008393,0.000195978696297217,"Cck/Grik1/Arl6ip1/Snca/Rgs2",5
+"GO:2000378","negative regulation of reactive oxygen species metabolic process","5/149","55/28943",9.55677766690594e-06,0.000310709045337144,0.00023281172662237,"Atp5g1/Cycs/Eef1a1/Cryab/Slc30a10",5
+"GO:0009165","nucleotide biosynthetic process","9/149","264/28943",9.79039772649401e-06,0.000314559719894766,0.000235697005328846,"Aldoa/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Nme1/Snca",9
+"GO:1903169","regulation of calcium ion transmembrane transport","8/149","201/28943",1.01483040111518e-05,0.000322267654121577,0.000241472496911617,"Calm1/Calm2/Ank2/Fgf14/Fkbp1a/Atp1b1/Ywhae/Snca",8
+"GO:0030834","regulation of actin filament depolymerization","5/149","56/28943",1.04504020621765e-05,0.000328046529101196,0.000245802560300921,"Swap70/Carmil1/Cfl1/Dstn/Arpc2",5
+"GO:1901879","regulation of protein depolymerization","6/149","96/28943",1.06524821756834e-05,0.000330590100247629,0.000247708437195317,"Stmn2/Swap70/Carmil1/Cfl1/Dstn/Arpc2",6
+"GO:0030003","cellular cation homeostasis","12/149","498/28943",1.11250491163452e-05,0.000341376507154368,0.000255790602982556,"Calm1/Fth1/Calm2/Atp6v0c/Ank2/Kcnma1/Fkbp1a/Slc1a3/Atp1b1/Ywhae/Snca/Slc30a10",12
+"GO:1901293","nucleoside phosphate biosynthetic process","9/149","269/28943",1.13717214822679e-05,0.000342364446216327,0.0002565308575785,"Aldoa/Atp5g1/Atp5h/Atp5k/Atp5g3/Ndufb9/Ndufa5/Nme1/Snca",9
+"GO:0019646","aerobic electron transport chain","5/149","57/28943",1.14079694638176e-05,0.000342364446216327,0.0002565308575785,"Cox4i1/Ndufb9/Cycs/Cox5b/Uqcrb",5
+"GO:0051047","positive regulation of secretion","11/149","420/28943",1.21305759728105e-05,0.000360093510671146,0.000269815099441002,"Ppia/Dynll1/Cck/Pcp4/Snap25/Rab3a/Vsnl1/Camk2n1/Grik1/Rtn4/Snca",11
+"GO:0048588","developmental cell growth","9/149","273/28943",1.27891852303023e-05,0.000375561987784467,0.000281405501841625,"Hsp90ab1/Olfm1/Hsp90aa1/Atp5g1/Slc25a4/Septin7/Rtn4/Sema6d/Rgs2",9
+"GO:0001933","negative regulation of protein phosphorylation","10/149","346/28943",1.31585962216425e-05,0.000378494133774097,0.000283602534663163,"Ppia/Uchl1/Pcp4/Actb/Camk2n1/Il18/Pebp1/Dnaja1/Snca/Rgs2",10
+"GO:0051258","protein polymerization","9/149","274/28943",1.31662184945219e-05,0.000378494133774097,0.000283602534663163,"Stmn1/Tmsb4x/Stmn2/Hsp90aa1/Carmil1/Cfl1/Tubb4a/Snca/Arpc2",9
+"GO:0006875","cellular metal ion homeostasis","11/149","425/28943",1.35393274019821e-05,0.000385165657654304,0.000288601452515935,"Calm1/Fth1/Calm2/Ank2/Kcnma1/Fkbp1a/Slc1a3/Atp1b1/Ywhae/Snca/Slc30a10",11
+"GO:0030042","actin filament depolymerization","5/149","60/28943",1.46967003023393e-05,0.000413780294079265,0.000310042163730306,"Swap70/Carmil1/Cfl1/Dstn/Arpc2",5
+"GO:0110053","regulation of actin filament organization","9/149","279/28943",1.51969341464699e-05,0.000423498236265402,0.000317323737709318,"Stmn1/Tmsb4x/Swap70/Carmil1/Actg1/Cfl1/Dstn/Ctnna2/Arpc2",9
+"GO:0003012","muscle system process","11/149","432/28943",1.57494584940941e-05,0.000434462334821931,0.000325539046385104,"Calm1/Calm2/Ank2/Aldoa/Slc25a4/Kcnma1/Myl6/Fkbp1a/Atp1b1/Rgs2/Nr4a1",11
+"GO:0001666","response to hypoxia","8/149","219/28943",1.88681897716841e-05,0.000515290262664692,0.00038610274648583,"Chchd2/Egr1/Kcnma1/Cryab/Rtn4/Il18/Atp1b1/Kcnk2",8
+"GO:1904427","positive regulation of calcium ion transmembrane transport","6/149","107/28943",1.98247466462028e-05,0.000536053297928515,0.000401660317667726,"Calm1/Calm2/Ank2/Fgf14/Atp1b1/Snca",6
+"GO:0014911","positive regulation of smooth muscle cell migration","5/149","64/28943",2.01807898018261e-05,0.000540330754399873,0.000404865380544374,"Tmsb4x/Egr1/Il18/Sema6d/Arpc2",5
+"GO:1903532","positive regulation of secretion by cell","10/149","365/28943",2.08150829953791e-05,0.000549550032532871,0.000411773309658656,"Ppia/Dynll1/Cck/Pcp4/Snap25/Rab3a/Vsnl1/Camk2n1/Rtn4/Snca",10
+"GO:2000377","regulation of reactive oxygen species metabolic process","7/149","161/28943",2.09275735567259e-05,0.000549550032532871,0.000411773309658656,"Atp5g1/Cycs/Eef1a1/Cryab/Il18/Snca/Slc30a10",7
+"GO:0070997","neuron death","11/149","450/28943",2.29262412969647e-05,0.000596300618876292,0.000446803138659643,"Gapdh/Hsp90ab1/Ubb/Pcp4/Egr1/Atp5g1/Kcnma1/Sncb/Il18/Snca/Slc30a10",11
+"GO:0010976","positive regulation of neuron projection development","8/149","227/28943",2.44003570977024e-05,0.000628654483337975,0.000471045622620988,"Stmn2/Pcp4/Hspa5/Eef1a1/Nme1/Enc1/Rgs2/Nrxn1",8
+"GO:0006937","regulation of muscle contraction","7/149","167/28943",2.64792430166852e-05,0.000674770126389012,0.000505599693846572,"Calm1/Calm2/Ank2/Kcnma1/Atp1b1/Rgs2/Nr4a1",7
+"GO:0099504","synaptic vesicle cycle","8/149","230/28943",2.67982400095453e-05,0.000674770126389012,0.000505599693846572,"Snap25/Actb/Fgf14/Rab3a/Actg1/Sncb/Snca/Nrxn1",8
+"GO:0010959","regulation of metal ion transport","11/149","458/28943",2.69315063260353e-05,0.000674770126389012,0.000505599693846572,"Calm1/Calm2/Ank2/Ywhah/Rgs7/Fgf14/Fkbp1a/Atp1b1/Ywhae/Snca/Slc30a10",11
+"GO:0007015","actin filament organization","11/149","460/28943",2.8022563862999e-05,0.000695723835544093,0.000521300135403541,"Stmn1/Tmsb4x/Swap70/Carmil1/Actg1/Cfl1/Hsp90b1/Dstn/Ermn/Ctnna2/Arpc2",11
+"GO:0006123","mitochondrial electron transport, cytochrome c to oxygen","3/149","12/28943",2.84314258512589e-05,0.000699515531529621,0.000524141221952084,"Cox4i1/Cycs/Cox5b",3
+"GO:0043243","positive regulation of protein-containing complex disassembly","4/149","35/28943",3.11941688994654e-05,0.000760636386289642,0.00056993857462933,"Stmn2/Carmil1/Cfl1/Dstn",4
+"GO:0006941","striated muscle contraction","7/149","173/28943",3.31911161918649e-05,0.000802030982797092,0.000600955204593477,"Calm1/Calm2/Ank2/Aldoa/Atp1b1/Rgs2/Nr4a1",7
+"GO:0055117","regulation of cardiac muscle contraction","5/149","71/28943",3.3479140255902e-05,0.000802030982797092,0.000600955204593477,"Calm1/Calm2/Ank2/Atp1b1/Rgs2",5
+"GO:0032984","protein-containing complex disassembly","8/149","238/28943",3.41767786358619e-05,0.000811624195256861,0.000608143319616619,"Stmn1/Stmn2/Hspa8/Swap70/Carmil1/Cfl1/Dstn/Arpc2",8
+"GO:0030836","positive regulation of actin filament depolymerization","3/149","13/28943",3.68212903643155e-05,0.000866887448146084,0.000649551619493915,"Carmil1/Cfl1/Dstn",3
+"GO:0072593","reactive oxygen species metabolic process","8/149","245/28943",4.19591980005127e-05,0.000979406578969232,0.0007338612767701,"Atp5g1/Cycs/Eef1a1/Cryab/Il18/Snca/Norad/Slc30a10",8
+"GO:0036293","response to decreased oxygen levels","8/149","246/28943",4.31830249078506e-05,0.00099943085613,0.000748865302594662,"Chchd2/Egr1/Kcnma1/Cryab/Rtn4/Il18/Atp1b1/Kcnk2",8
+"GO:0043954","cellular component maintenance","5/149","75/28943",4.3653457179802e-05,0.00100182850048773,0.000750661837749094,"Hspa8/Chchd10/Rab3a/Cfl1/Nrxn1",5
+"GO:1901214","regulation of neuron death","10/149","399/28943",4.4201589246395e-05,0.00100595450193254,0.000753753416622736,"Hsp90ab1/Ubb/Pcp4/Egr1/Atp5g1/Kcnma1/Sncb/Il18/Snca/Slc30a10",10
+"GO:0006470","protein dephosphorylation","8/149","252/28943",5.11688261939789e-05,0.00114542675685046,0.000858258827619457,"Calm1/Calm2/Ppia/Hsp90ab1/Swap70/Ywhae/Hsp90b1/Ywhab",8
+"GO:1903320","regulation of protein modification by small protein conjugation or removal","8/149","252/28943",5.11688261939789e-05,0.00114542675685046,0.000858258827619457,"Ppia/Hsp90ab1/Ubb/Hsp90aa1/Hspa5/Egr1/Rps2/Dnaja1",8
+"GO:0051402","neuron apoptotic process","9/149","329/28943",5.5017962272712e-05,0.00122157768265672,0.000915318088644862,"Gapdh/Hsp90ab1/Pcp4/Egr1/Kcnma1/Sncb/Il18/Snca/Slc30a10",9
+"GO:0048102","autophagic cell death","3/149","15/28943",5.81379236855785e-05,0.00127127448352516,0.000952555491904994,"Calm1/Calm2/Atp6v0c",3
+"GO:0030534","adult behavior","7/149","189/28943",5.81872246212542e-05,0.00127127448352516,0.000952555491904994,"Uchl1/Fgf14/Kcnma1/Grik1/Snca/Nrxn1/Bc1",7
+"GO:0090257","regulation of muscle system process","8/149","258/28943",6.03495026128106e-05,0.00130805152091735,0.000980112222884743,"Calm1/Calm2/Ank2/Slc25a4/Kcnma1/Atp1b1/Rgs2/Nr4a1",8
+"GO:0032970","regulation of actin filament-based process","10/149","416/28943",6.25892002867463e-05,0.0013459142203394,0.0010084824314748,"Stmn1/Tmsb4x/Ank2/Swap70/Carmil1/Actg1/Cfl1/Dstn/Ctnna2/Arpc2",10
+"GO:0099003","vesicle-mediated transport in synapse","8/149","260/28943",6.36985904543436e-05,0.00135906914477197,0.00101833930792141,"Snap25/Actb/Fgf14/Rab3a/Actg1/Sncb/Snca/Nrxn1",8
+"GO:0014059","regulation of dopamine secretion","4/149","42/28943",6.48438616945013e-05,0.00137277973866421,0.001028612542914,"Pcp4/Rab3a/Rtn4/Snca",4
+"GO:0051279","regulation of release of sequestered calcium ion into cytosol","5/149","82/28943",6.70465298184418e-05,0.00139463136204736,0.00104498578420091,"Calm1/Calm2/Ank2/Fkbp1a/Snca",5
+"GO:1901880","negative regulation of protein depolymerization","5/149","82/28943",6.70465298184418e-05,0.00139463136204736,0.00104498578420091,"Stmn2/Swap70/Carmil1/Cfl1/Arpc2",5
+"GO:0043244","regulation of protein-containing complex disassembly","6/149","133/28943",6.74080336104911e-05,0.00139463136204736,0.00104498578420091,"Stmn2/Swap70/Carmil1/Cfl1/Dstn/Arpc2",6
+"GO:0050905","neuromuscular process","7/149","194/28943",6.85820507230646e-05,0.00140825248514804,0.00105519197946686,"Uchl1/Fgf14/Kcnma1/Slc1a3/Ctnna2/Nrxn1/Nr4a1",7
+"GO:2001257","regulation of cation channel activity","7/149","196/28943",7.31432851301023e-05,0.0014907038185844,0.00111697208399779,"Calm1/Calm2/Ank2/Fgf14/Fkbp1a/Cfl1/Nrxn1",7
+"GO:0014046","dopamine secretion","4/149","44/28943",7.80181865483822e-05,0.00157827901824912,0.00118259145925969,"Pcp4/Rab3a/Rtn4/Snca",4
+"GO:0008277","regulation of G protein-coupled receptor signaling pathway","6/149","138/28943",8.27102196382362e-05,0.0016487708746863,0.00123541042625226,"Stmn1/Pde10a/Rgs7/Snca/Rgs2/Ywhab",6
+"GO:0048675","axon extension","6/149","138/28943",8.27102196382362e-05,0.0016487708746863,0.00123541042625226,"Hsp90ab1/Olfm1/Hsp90aa1/Atp5g1/Rtn4/Sema6d",6
+"GO:0034331","cell junction maintenance","4/149","45/28943",8.52884286909663e-05,0.00168784564315238,0.00126468882818641,"Hspa8/Chchd10/Rab3a/Nrxn1",4
+"GO:0006469","negative regulation of protein kinase activity","7/149","202/28943",8.83355836131362e-05,0.0017355717902696,0.00130044963683405,"Ppia/Uchl1/Pcp4/Actb/Camk2n1/Dnaja1/Rgs2",7
+"GO:0032890","regulation of organic acid transport","5/149","88/28943",9.39112005944725e-05,0.00183193920588217,0.001372656947035,"Cck/Grik1/Arl6ip1/Snca/Rgs2",5
+"GO:0022411","cellular component disassembly","10/149","439/28943",9.75423204276064e-05,0.00188927714246662,0.00141561979030434,"Stmn1/Stmn2/Hspa8/Swap70/Slc25a4/Carmil1/Septin7/Cfl1/Dstn/Arpc2",10
+"GO:0030835","negative regulation of actin filament depolymerization","4/149","47/28943",0.000101288474651613,0.00193687119367398,0.00145128162057554,"Swap70/Carmil1/Cfl1/Arpc2",4
+"GO:0060560","developmental growth involved in morphogenesis","8/149","278/28943",0.000101418008310282,0.00193687119367398,0.00145128162057554,"Hsp90ab1/Olfm1/Hsp90aa1/Atp5g1/Septin7/Rtn4/Cfl1/Sema6d",8
+"GO:0072507","divalent inorganic cation homeostasis","9/149","359/28943",0.000106938215785997,0.00202811296744137,0.00151964832959048,"Calm1/Calm2/Ank2/Camk2n1/Fkbp1a/Atp1b1/Ywhae/Snca/Slc30a10",9
+"GO:0051937","catecholamine transport","5/149","91/28943",0.000110109193869424,0.00207384971349929,0.00155391849642222,"Pcp4/Actb/Rab3a/Rtn4/Snca",5
+"GO:0006605","protein targeting","8/149","282/28943",0.00011191844980082,0.00209348826305506,0.00156863349973175,"Hspa8/Hsp90aa1/Hspa5/Arl6ip1/Ywhaz/Ywhae/Ywhab/Arpc2",8
+"GO:0008361","regulation of cell size","7/149","211/28943",0.000115864026244706,0.00212538493383512,0.00159253341223591,"Hsp90ab1/Olfm1/Atp5g1/Kcnma1/Rtn4/Cfl1/Sema6d",7
+"GO:0043242","negative regulation of protein-containing complex disassembly","5/149","92/28943",0.000115958387089503,0.00212538493383512,0.00159253341223591,"Stmn2/Swap70/Carmil1/Cfl1/Arpc2",5
+"GO:2001259","positive regulation of cation channel activity","5/149","92/28943",0.000115958387089503,0.00212538493383512,0.00159253341223591,"Calm1/Calm2/Ank2/Fgf14/Cfl1",5
+"GO:0031111","negative regulation of microtubule polymerization or depolymerization","4/149","49/28943",0.000119361743336842,0.00215878755664183,0.0016175617221807,"Stmn1/Stmn2/Tubb4a/Snca",4
+"GO:0035307","positive regulation of protein dephosphorylation","4/149","49/28943",0.000119361743336842,0.00215878755664183,0.0016175617221807,"Calm1/Calm2/Ppia/Hsp90ab1",4
+"GO:0031345","negative regulation of cell projection organization","7/149","213/28943",0.00012283982457095,0.0022070760585741,0.001653743898656,"Ntm/Ywhah/Stmn2/Rtn4/Cfl1/Sema6d/Nrxn1",7
+"GO:0032956","regulation of actin cytoskeleton organization","9/149","368/28943",0.00012884132068713,0.0022997754692585,0.00172320280299814,"Stmn1/Tmsb4x/Swap70/Carmil1/Actg1/Cfl1/Dstn/Ctnna2/Arpc2",9
+"GO:0043523","regulation of neuron apoptotic process","8/149","290/28943",0.00013562747015772,0.00239086147419455,0.00179145279571169,"Hsp90ab1/Pcp4/Egr1/Kcnma1/Sncb/Il18/Snca/Slc30a10",8
+"GO:0051928","positive regulation of calcium ion transport","6/149","151/28943",0.000135695177041434,0.00239086147419455,0.00179145279571169,"Calm1/Calm2/Ank2/Fgf14/Atp1b1/Snca",6
+"GO:2000117","negative regulation of cysteine-type endopeptidase activity","5/149","96/28943",0.000141772847901031,0.00246628854379772,0.00184796967725058,"Arl6ip1/Cryab/Cst3/Snca/Nr4a1",5
+"GO:0031396","regulation of protein ubiquitination","7/149","218/28943",0.000141782241441319,0.00246628854379772,0.00184796967725058,"Ppia/Hsp90ab1/Ubb/Hsp90aa1/Hspa5/Rps2/Dnaja1",7
+"GO:0060314","regulation of ryanodine-sensitive calcium-release channel activity","3/149","20/28943",0.000142937915697972,0.00247065473272886,0.00185124122662796,"Calm1/Calm2/Fkbp1a",3
+"GO:1903426","regulation of reactive oxygen species biosynthetic process","4/149","52/28943",0.000150699969001379,0.00258843783234444,0.00193949513233155,"Atp5g1/Cycs/Eef1a1/Slc30a10",4
+"GO:0051924","regulation of calcium ion transport","8/149","296/28943",0.000156008470097949,0.00266286957398436,0.00199526622283166,"Calm1/Calm2/Ank2/Fgf14/Fkbp1a/Atp1b1/Ywhae/Snca",8
+"GO:0014910","regulation of smooth muscle cell migration","5/149","100/28943",0.000171770495992033,0.00291369704692076,0.00218320918083369,"Tmsb4x/Egr1/Il18/Sema6d/Arpc2",5
+"GO:0033673","negative regulation of kinase activity","7/149","226/28943",0.000176965421657295,0.00298328744781526,0.00223535269461846,"Ppia/Uchl1/Pcp4/Actb/Camk2n1/Dnaja1/Rgs2",7
+"GO:0045185","maintenance of protein location","5/149","101/28943",0.000179974240374709,0.00301539662860939,0.00225941183912454,"Tmsb4x/Hspa5/Chchd10/Syne1/Ywhab",5
+"GO:0031113","regulation of microtubule polymerization","4/149","55/28943",0.000187591408912263,0.0031087182581301,0.00232933696691203,"Stmn1/Stmn2/Tubb4a/Snca",4
+"GO:0009408","response to heat","5/149","102/28943",0.000188473635474245,0.0031087182581301,0.00232933696691203,"Hsp90ab1/Hsp90aa1/Cryab/Dnaja1/Ywhae",5
+"GO:0070482","response to oxygen levels","8/149","305/28943",0.000191262555285391,0.0031087182581301,0.00232933696691203,"Chchd2/Egr1/Kcnma1/Cryab/Rtn4/Il18/Atp1b1/Kcnk2",8
+"GO:0032516","positive regulation of phosphoprotein phosphatase activity","3/149","22/28943",0.000191638936104382,0.0031087182581301,0.00232933696691203,"Calm1/Calm2/Hsp90ab1",3
+"GO:0046931","pore complex assembly","3/149","22/28943",0.000191638936104382,0.0031087182581301,0.00232933696691203,"Atp5g1/Atp5g3/Rtn4",3
+"GO:0006865","amino acid transport","6/149","161/28943",0.000192373996932986,0.0031087182581301,0.00232933696691203,"Cck/Grik1/Arl6ip1/Slc1a3/Snca/Rgs2",6
+"GO:0019932","second-messenger-mediated signaling","8/149","309/28943",0.000208906442465979,0.00335602055514463,0.0025146385396524,"Calm1/Calm2/Gapdh/Ank2/Pde10a/Hint1/Atp1b1/Pebp1",8
+"GO:0097193","intrinsic apoptotic signaling pathway","8/149","310/28943",0.000213520111929382,0.00341007851274353,0.00255514372170341,"Ppia/Ubb/Tpt1/Hint1/Cycs/Rpl26/Ddx5/Dnaja1",8
+"GO:0010880","regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum","3/149","23/28943",0.000219554518197722,0.0034679692222323,0.00259852075315369,"Calm1/Calm2/Ank2",3
+"GO:0008064","regulation of actin polymerization or depolymerization","6/149","165/28943",0.000219684612027165,0.0034679692222323,0.00259852075315369,"Tmsb4x/Swap70/Carmil1/Cfl1/Dstn/Arpc2",6
+"GO:0043666","regulation of phosphoprotein phosphatase activity","4/149","58/28943",0.000230588100313194,0.0036191729997433,0.00271181649733121,"Calm1/Calm2/Hsp90ab1/Hsp90b1",4
+"GO:0030832","regulation of actin filament length","6/149","168/28943",0.000242102903589211,0.00377818874115506,0.00283096568166873,"Tmsb4x/Swap70/Carmil1/Cfl1/Dstn/Arpc2",6
+"GO:1903829","positive regulation of protein localization","10/149","493/28943",0.000248809719291917,0.00386079172378538,0.00289285941569071,"Ppia/Dynll1/Hsp90ab1/Vsnl1/Camk2n1/Rtn4/Cfl1/Ywhae/Arpc2/Nrxn1",10
+"GO:0015844","monoamine transport","5/149","109/28943",0.000256853127713803,0.00396308413438642,0.00296950627579919,"Pcp4/Actb/Rab3a/Rtn4/Snca",5
+"GO:0015872","dopamine transport","4/149","60/28943",0.000262922704849489,0.00401204693648686,0.00300619369983251,"Pcp4/Rab3a/Rtn4/Snca",4
+"GO:0034504","protein localization to nucleus","8/149","320/28943",0.000264433705077859,0.00401204693648686,0.00300619369983251,"Hsp90ab1/Hspa8/Chchd10/Syne1/Appl2/Cfl1/Ddx5/Ywhae",8
+"GO:0072503","cellular divalent inorganic cation homeostasis","8/149","320/28943",0.000264433705077859,0.00401204693648686,0.00300619369983251,"Calm1/Calm2/Ank2/Fkbp1a/Atp1b1/Ywhae/Snca/Slc30a10",8
+"GO:0051017","actin filament bundle assembly","6/149","171/28943",0.000266283917996772,0.00401779767982975,0.00301050268441829,"Stmn1/Swap70/Carmil1/Actg1/Cfl1/Hsp90b1",6
+"GO:2000116","regulation of cysteine-type endopeptidase activity","7/149","243/28943",0.000275299034007694,0.00413099814217039,0.00309532285778459,"Cck/Cycs/Arl6ip1/Cryab/Cst3/Snca/Nr4a1",7
+"GO:0008344","adult locomotory behavior","5/149","111/28943",0.000279468019913326,0.00414797370860486,0.00310804250979122,"Uchl1/Fgf14/Kcnma1/Snca/Bc1",5
+"GO:0014909","smooth muscle cell migration","5/149","111/28943",0.000279468019913326,0.00414797370860486,0.00310804250979122,"Tmsb4x/Egr1/Il18/Sema6d/Arpc2",5
+"GO:0014808","release of sequestered calcium ion into cytosol by sarcoplasmic reticulum","3/149","25/28943",0.000282992136718647,0.00417757581285743,0.00313022312250953,"Calm1/Calm2/Ank2",3
+"GO:0055074","calcium ion homeostasis","8/149","324/28943",0.000287399591019976,0.00421982947890083,0.003161883446196,"Calm1/Calm2/Ank2/Camk2n1/Fkbp1a/Atp1b1/Ywhae/Snca",8
+"GO:0009266","response to temperature stimulus","6/149","174/28943",0.000292324158935424,0.00423939084895698,0.00317654061954263,"Hsp90ab1/Hsp90aa1/Appl2/Cryab/Dnaja1/Ywhae",6
+"GO:0061572","actin filament bundle organization","6/149","174/28943",0.000292324158935424,0.00423939084895698,0.00317654061954263,"Stmn1/Swap70/Carmil1/Actg1/Cfl1/Hsp90b1",6
+"GO:0070588","calcium ion transmembrane transport","8/149","325/28943",0.000293388821110534,0.00423939084895698,0.00317654061954263,"Calm1/Calm2/Ank2/Fgf14/Fkbp1a/Atp1b1/Ywhae/Snca",8
+"GO:0045744","negative regulation of G protein-coupled receptor signaling pathway","4/149","62/28943",0.000298391507230298,0.00428898529603129,0.00321370132994847,"Stmn1/Snca/Rgs2/Ywhab",4
+"GO:1903409","reactive oxygen species biosynthetic process","4/149","63/28943",0.000317354916793951,0.00450968491566801,0.00337906973580474,"Atp5g1/Cycs/Eef1a1/Slc30a10",4
+"GO:0016082","synaptic vesicle priming","3/149","26/28943",0.000318699812787963,0.00450968491566801,0.00337906973580474,"Snap25/Rab3a/Snca",3
+"GO:1903514","release of sequestered calcium ion into cytosol by endoplasmic reticulum","3/149","26/28943",0.000318699812787963,0.00450968491566801,0.00337906973580474,"Calm1/Calm2/Ank2",3
+"GO:0098657","import into cell","7/149","250/28943",0.000326791661965117,0.00460035066405534,0.00344700483375034,"Calm1/Actb/Arl6ip1/Slc1a3/Atp1b1/Snca/Rgs2",7
+"GO:0032231","regulation of actin filament bundle assembly","5/149","115/28943",0.000329200355641968,0.00461049318593957,0.0034546045417975,"Stmn1/Swap70/Carmil1/Actg1/Cfl1",5
+"GO:1902905","positive regulation of supramolecular fiber organization","6/149","180/28943",0.00035038215373832,0.00486210541391618,0.00364313551028274,"Stmn2/Swap70/Carmil1/Cfl1/Dstn/Arpc2",6
+"GO:0044070","regulation of anion transport","5/149","117/28943",0.000356444670342378,0.00486210541391618,0.00364313551028274,"Cck/Grik1/Arl6ip1/Snca/Rgs2",5
+"GO:0060078","regulation of postsynaptic membrane potential","5/149","117/28943",0.000356444670342378,0.00486210541391618,0.00364313551028274,"Rgs7/Fgf14/Grik1/Snca/Nrxn1",5
+"GO:0051016","barbed-end actin filament capping","3/149","27/28943",0.000357187819054386,0.00486210541391618,0.00364313551028274,"Carmil1/Cfl1/Arpc2",3
+"GO:0035306","positive regulation of dephosphorylation","4/149","65/28943",0.000357848109922062,0.00486210541391618,0.00364313551028274,"Calm1/Calm2/Ppia/Hsp90ab1",4
+"GO:0042776","proton motive force-driven mitochondrial ATP synthesis","4/149","65/28943",0.000357848109922062,0.00486210541391618,0.00364313551028274,"Atp5h/Atp5k/Ndufb9/Ndufa5",4
+"GO:0051897","positive regulation of protein kinase B signaling","5/149","118/28943",0.000370689648152757,0.00501165063913455,0.00375518851489818,"Hsp90ab1/Hsp90aa1/Rtn4/Il18/Nrxn1",5
+"GO:0072594","establishment of protein localization to organelle","9/149","428/28943",0.000392317692879815,0.00527792915889052,0.00395470881492539,"Hsp90ab1/Hspa8/Hsp90aa1/Hspa5/Appl2/Ywhaz/Cfl1/Ddx5/Dnaja1",9
+"GO:0071480","cellular response to gamma radiation","3/149","28/28943",0.00039854498932371,0.00533499368296544,0.00399746679245498,"Egr1/Rpl26/Cryab",3
+"GO:0051209","release of sequestered calcium ion into cytosol","5/149","120/28943",0.000400466387772946,0.00533499368296544,0.00399746679245498,"Calm1/Calm2/Ank2/Fkbp1a/Snca",5
+"GO:0051283","negative regulation of sequestering of calcium ion","5/149","121/28943",0.000416014798503444,0.00551522531414032,0.00413251286811802,"Calm1/Calm2/Ank2/Fkbp1a/Snca",5
+"GO:0045926","negative regulation of growth","7/149","261/28943",0.00042307263015817,0.0055578063782206,0.00416441850845491,"Cryab/Rtn4/Cfl1/Sema6d/Rgs2/Kcnk2/D7Ertd443e",7
+"GO:0030837","negative regulation of actin filament polymerization","4/149","68/28943",0.000425331941797183,0.0055578063782206,0.00416441850845491,"Tmsb4x/Carmil1/Cfl1/Arpc2",4
+"GO:0050433","regulation of catecholamine secretion","4/149","68/28943",0.000425331941797183,0.0055578063782206,0.00416441850845491,"Pcp4/Rab3a/Rtn4/Snca",4
+"GO:0010466","negative regulation of peptidase activity","7/149","262/28943",0.000432841658712368,0.00560232497603544,0.00419777592684881,"Gapdh/Arl6ip1/Cryab/Pebp1/Cst3/Snca/Nr4a1",7
+"GO:0051348","negative regulation of transferase activity","7/149","262/28943",0.000432841658712368,0.00560232497603544,0.00419777592684881,"Ppia/Uchl1/Pcp4/Actb/Camk2n1/Dnaja1/Rgs2",7
+"GO:0010951","negative regulation of endopeptidase activity","6/149","188/28943",0.000441418821855515,0.00568639057777081,0.00426076558931044,"Gapdh/Arl6ip1/Cryab/Cst3/Snca/Nr4a1",6
+"GO:0051282","regulation of sequestering of calcium ion","5/149","123/28943",0.000448473793087452,0.00575014990104146,0.00430853992469487,"Calm1/Calm2/Ank2/Fkbp1a/Snca",5
+"GO:0000910","cytokinesis","6/149","190/28943",0.000466826015641004,0.00595748527437188,0.00446389461094989,"Calm1/Calm2/Stmn1/Septin7/Cfl1/Dstn",6
+"GO:0007626","locomotory behavior","7/149","266/28943",0.000473736399754436,0.00597893272530937,0.0044799650091547,"Uchl1/Snap25/Egr1/Fgf14/Kcnma1/Snca/Bc1",7
+"GO:0015800","acidic amino acid transport","4/149","70/28943",0.000475074478722861,0.00597893272530937,0.0044799650091547,"Cck/Arl6ip1/Slc1a3/Snca",4
+"GO:0032507","maintenance of protein location in cell","4/149","70/28943",0.000475074478722861,0.00597893272530937,0.0044799650091547,"Tmsb4x/Hspa5/Chchd10/Syne1",4
+"GO:0031109","microtubule polymerization or depolymerization","5/149","125/28943",0.00048280585360205,0.00602074331592329,0.00451129334007395,"Stmn1/Stmn2/Cryab/Tubb4a/Snca",5
+"GO:0051208","sequestering of calcium ion","5/149","125/28943",0.00048280585360205,0.00602074331592329,0.00451129334007395,"Calm1/Calm2/Ank2/Fkbp1a/Snca",5
+"GO:0016311","dephosphorylation","8/149","351/28943",0.000488809775819251,0.00605780721045266,0.00453906501074215,"Calm1/Calm2/Ppia/Hsp90ab1/Swap70/Ywhae/Hsp90b1/Ywhab",8
+"GO:0071353","cellular response to interleukin-4","3/149","30/28943",0.000490214351340182,0.00605780721045266,0.00453906501074215,"Hsp90ab1/Hspa5/Rps2",3
+"GO:0014812","muscle cell migration","5/149","126/28943",0.000500695820808757,0.00613183985035299,0.00459453705759841,"Tmsb4x/Egr1/Il18/Sema6d/Arpc2",5
+"GO:0048640","negative regulation of developmental growth","5/149","126/28943",0.000500695820808757,0.00613183985035299,0.00459453705759841,"Rtn4/Cfl1/Sema6d/Rgs2/Kcnk2",5
+"GO:0052547","regulation of peptidase activity","9/149","445/28943",0.000519239874180543,0.00633055400172796,0.00474343193330346,"Gapdh/Cck/Cycs/Arl6ip1/Cryab/Pebp1/Cst3/Snca/Nr4a1",9
+"GO:0051957","positive regulation of amino acid transport","3/149","31/28943",0.000540696454096082,0.00653381423069203,0.00489573314747453,"Cck/Grik1/Arl6ip1",3
+"GO:1901798","positive regulation of signal transduction by p53 class mediator","3/149","31/28943",0.000540696454096082,0.00653381423069203,0.00489573314747453,"Ubb/Rpl26/Ddx5",3
+"GO:0048168","regulation of neuronal synaptic plasticity","4/149","73/28943",0.000557263196785466,0.00670434268907977,0.00502350871574749,"Egr1/Rab3a/Grik1/Snca",4
+"GO:0051592","response to calcium ion","5/149","130/28943",0.000577285994052911,0.0068342950008986,0.00512088091184909,"Calm1/Calm2/Kcnma1/Nrxn1/Junb",5
+"GO:0008154","actin polymerization or depolymerization","6/149","198/28943",0.000580060158578258,0.0068342950008986,0.00512088091184909,"Tmsb4x/Swap70/Carmil1/Cfl1/Dstn/Arpc2",6
+"GO:0048488","synaptic vesicle endocytosis","4/149","74/28943",0.000586768991666668,0.0068342950008986,0.00512088091184909,"Actb/Actg1/Sncb/Snca",4
+"GO:0050432","catecholamine secretion","4/149","74/28943",0.000586768991666668,0.0068342950008986,0.00512088091184909,"Pcp4/Rab3a/Rtn4/Snca",4
+"GO:0140238","presynaptic endocytosis","4/149","74/28943",0.000586768991666668,0.0068342950008986,0.00512088091184909,"Actb/Actg1/Sncb/Snca",4
+"GO:0045861","negative regulation of proteolysis","8/149","361/28943",0.000587585864776215,0.0068342950008986,0.00512088091184909,"Gapdh/Hsp90ab1/Arl6ip1/Cryab/Pebp1/Cst3/Snca/Nr4a1",8
+"GO:0052548","regulation of endopeptidase activity","8/149","361/28943",0.000587585864776215,0.0068342950008986,0.00512088091184909,"Gapdh/Cck/Cycs/Arl6ip1/Cryab/Cst3/Snca/Nr4a1",8
+"GO:0034248","regulation of cellular amide metabolic process","9/149","453/28943",0.000589685147293662,0.0068342950008986,0.00512088091184909,"Gapdh/Rtn1/Eif1/Rpl26/Rtn4/Enc1/Snca/Rgs2/Bc1",9
+"GO:0070296","sarcoplasmic reticulum calcium ion transport","3/149","32/28943",0.000594387575315478,0.0068342950008986,0.00512088091184909,"Calm1/Calm2/Ank2",3
+"GO:0070670","response to interleukin-4","3/149","32/28943",0.000594387575315478,0.0068342950008986,0.00512088091184909,"Hsp90ab1/Hspa5/Rps2",3
+"GO:0008016","regulation of heart contraction","6/149","199/28943",0.000595592167782448,0.0068342950008986,0.00512088091184909,"Calm1/Calm2/Ank2/Atp1b1/Pebp1/Rgs2",6
+"GO:0030308","negative regulation of cell growth","6/149","200/28943",0.000611445223992577,0.00695773711134887,0.00521337506772618,"Cryab/Rtn4/Cfl1/Sema6d/Rgs2/D7Ertd443e",6
+"GO:1990138","neuron projection extension","6/149","200/28943",0.000611445223992577,0.00695773711134887,0.00521337506772618,"Hsp90ab1/Olfm1/Hsp90aa1/Atp5g1/Rtn4/Sema6d",6
+"GO:0060048","cardiac muscle contraction","5/149","132/28943",0.000618723462547381,0.00701134346977966,0.00525354187024289,"Calm1/Calm2/Ank2/Atp1b1/Rgs2",5
+"GO:1901216","positive regulation of neuron death","5/149","133/28943",0.000640259221490228,0.00720953445067732,0.00540204473862156,"Egr1/Atp5g1/Kcnma1/Il18/Snca",5
+"GO:0051346","negative regulation of hydrolase activity","8/149","366/28943",0.000642703513899066,0.00720953445067732,0.00540204473862156,"Gapdh/Arl6ip1/Cryab/Pebp1/Cst3/Snca/Rgs2/Nr4a1",8
+"GO:0051495","positive regulation of cytoskeleton organization","6/149","202/28943",0.000644132700829464,0.00720953445067732,0.00540204473862156,"Stmn2/Swap70/Carmil1/Cfl1/Dstn/Arpc2",6
+"GO:0001558","regulation of cell growth","9/149","459/28943",0.000647507659201035,0.00721772823378786,0.00540818427276825,"Olfm1/Atp5g1/Slc25a4/Cryab/Rtn4/Cfl1/Sema6d/Rgs2/D7Ertd443e",9
+"GO:0035308","negative regulation of protein dephosphorylation","3/149","34/28943",0.000711720087612139,0.00788963060432022,0.00591163518078919,"Swap70/Ywhae/Ywhab",3
+"GO:0120032","regulation of plasma membrane bounded cell projection assembly","6/149","206/28943",0.000713562343195567,0.00788963060432022,0.00591163518078919,"Dynll1/Syne1/Septin7/Cfl1/Arpc2/Nrxn1",6
+"GO:0099173","postsynapse organization","6/149","208/28943",0.000750379412243021,0.00826325070498262,0.00619158564261644,"Hspa8/Actb/Septin7/Cfl1/Dock10/Nrxn1",6
+"GO:0060491","regulation of cell projection assembly","6/149","209/28943",0.000769330121869217,0.00843791390692704,0.00632245934015539,"Dynll1/Syne1/Septin7/Cfl1/Arpc2/Nrxn1",6
+"GO:0048167","regulation of synaptic plasticity","8/149","378/28943",0.000792154147295518,0.00865349190505623,0.00648399015723152,"Nrgn/Snap25/Egr1/Fgf14/Rab3a/Grik1/Cfl1/Snca",8
+"GO:0043281","regulation of cysteine-type endopeptidase activity involved in apoptotic process","6/149","211/28943",0.000808339944791029,0.00879512505667052,0.00659011471031143,"Cck/Cycs/Arl6ip1/Cryab/Snca/Nr4a1",6
+"GO:0006874","cellular calcium ion homeostasis","7/149","292/28943",0.000820676985176385,0.00889392399411392,0.00666414393977817,"Calm1/Calm2/Ank2/Fkbp1a/Atp1b1/Ywhae/Snca",7
+"GO:0010922","positive regulation of phosphatase activity","3/149","36/28943",0.000842843574790635,0.00902037650419355,0.00675889376328403,"Calm1/Calm2/Hsp90ab1",3
+"GO:0048169","regulation of long-term neuronal synaptic plasticity","3/149","36/28943",0.000842843574790635,0.00902037650419355,0.00675889376328403,"Egr1/Grik1/Snca",3
+"GO:1902745","positive regulation of lamellipodium organization","3/149","36/28943",0.000842843574790635,0.00902037650419355,0.00675889376328403,"Carmil1/Cfl1/Arpc2",3
+"GO:0034249","negative regulation of cellular amide metabolic process","6/149","213/28943",0.00084886003719434,0.00902037650419355,0.00675889376328403,"Gapdh/Rtn1/Rtn4/Enc1/Rgs2/Bc1",6
+"GO:1902115","regulation of organelle assembly","6/149","213/28943",0.00084886003719434,0.00902037650419355,0.00675889376328403,"Dynll1/Syne1/Septin7/Arpc2/Nrxn1/D7Ertd443e",6
+"GO:0010038","response to metal ion","7/149","296/28943",0.000888358743466853,0.0094035183271627,0.00704597877315203,"Calm1/Calm2/Kcnma1/Snca/Nrxn1/Junb/Slc30a10",7
+"GO:0046785","microtubule polymerization","4/149","83/28943",0.000904187699515151,0.00953411817519644,0.00714383616280209,"Stmn1/Stmn2/Tubb4a/Snca",4
+"GO:0071364","cellular response to epidermal growth factor stimulus","3/149","37/28943",0.000913767968287677,0.00956130391338562,0.00716420621234622,"Eef1a1/Cfl1/Arpc2",3
+"GO:0090075","relaxation of muscle","3/149","37/28943",0.000913767968287677,0.00956130391338562,0.00716420621234622,"Kcnma1/Atp1b1/Rgs2",3
+"GO:0043154","negative regulation of cysteine-type endopeptidase activity involved in apoptotic process","4/149","84/28943",0.000945635256244871,0.00981950526541727,0.00735767435717442,"Arl6ip1/Cryab/Snca/Nr4a1",4
+"GO:0072332","intrinsic apoptotic signaling pathway by p53 class mediator","4/149","84/28943",0.000945635256244871,0.00981950526541727,0.00735767435717442,"Ubb/Hint1/Rpl26/Ddx5",4
+"GO:0002181","cytoplasmic translation","5/149","146/28943",0.000974270605414259,0.0100785341794937,0.00755176258742152,"Fau/Rps29/Rpl26/Rps2/Rplp2",5
+"GO:0097106","postsynaptic density organization","3/149","38/28943",0.000988366485261979,0.0101857693254735,0.00763211299840829,"Hspa8/Cfl1/Nrxn1",3
+"GO:0010921","regulation of phosphatase activity","4/149","86/28943",0.00103251052014349,0.0106007001147063,0.00794301721867412,"Calm1/Calm2/Hsp90ab1/Hsp90b1",4
+"GO:0034763","negative regulation of transmembrane transport","5/149","149/28943",0.00106688942063299,0.0109126404784596,0.00817675156203642,"Calm1/Calm2/Appl2/Ywhae/Rgs2",5
+"GO:0060537","muscle tissue development","9/149","494/28943",0.00108458098028703,0.0110522039446414,0.00828132531688134,"Egr1/Slc25a4/Myl6/Fkbp1a/Ddx5/Rgs2/Norad/Kcnk2/Nr4a1",9
+"GO:0002931","response to ischemia","3/149","40/28943",0.00114887452240955,0.0115763830969769,0.00867408843513006,"Uchl1/Egr1/Cycs",3
+"GO:0070849","response to epidermal growth factor","3/149","40/28943",0.00114887452240955,0.0115763830969769,0.00867408843513006,"Eef1a1/Cfl1/Arpc2",3
+"GO:1901020","negative regulation of calcium ion transmembrane transporter activity","3/149","40/28943",0.00114887452240955,0.0115763830969769,0.00867408843513006,"Calm1/Calm2/Ywhae",3
+"GO:0033603","positive regulation of dopamine secretion","2/149","10/28943",0.00115297554096585,0.0115763830969769,0.00867408843513006,"Pcp4/Rtn4",2
+"GO:0048638","regulation of developmental growth","8/149","402/28943",0.00117477030305389,0.0117520062184622,0.00880568139246875,"Olfm1/Atp5g1/Slc25a4/Rtn4/Cfl1/Sema6d/Rgs2/Kcnk2",8
+"GO:0006835","dicarboxylic acid transport","4/149","90/28943",0.00122281857487412,0.0121880201751139,0.00913238305630151,"Cck/Arl6ip1/Slc1a3/Snca",4
+"GO:0055001","muscle cell development","6/149","229/28943",0.00123219150995761,0.0122194923576923,0.00915596490329506,"Ank2/Uchl1/Slc25a4/Actg1/Rgs2/Norad",6
+"GO:0051693","actin filament capping","3/149","41/28943",0.00123492489590739,0.0122194923576923,0.00915596490329506,"Carmil1/Cfl1/Arpc2",3
+"GO:0072595","maintenance of protein localization in organelle","3/149","42/28943",0.00132493112930838,0.0129856100230883,0.0097300105551788,"Hspa5/Chchd10/Syne1",3
+"GO:1901381","positive regulation of potassium ion transmembrane transport","3/149","42/28943",0.00132493112930838,0.0129856100230883,0.0097300105551788,"Ank2/Rgs7/Atp1b1",3
+"GO:0031110","regulation of microtubule polymerization or depolymerization","4/149","92/28943",0.00132661486504637,0.0129856100230883,0.0097300105551788,"Stmn1/Stmn2/Tubb4a/Snca",4
+"GO:1901379","regulation of potassium ion transmembrane transport","4/149","93/28943",0.00138075292947773,0.0134672723228703,0.0100909161462583,"Ank2/Rgs7/Atp1b1/Ywhae",4
+"GO:0005513","detection of calcium ion","2/149","11/28943",0.00140443579221885,0.0135971243891763,0.0101882132292234,"Calm1/Calm2",2
+"GO:0070493","thrombin-activated receptor signaling pathway","2/149","11/28943",0.00140443579221885,0.0135971243891763,0.0101882132292234,"Stmn1/Snca",2
+"GO:0051222","positive regulation of protein transport","7/149","321/28943",0.00141731272752672,0.0135971243891763,0.0101882132292234,"Ppia/Dynll1/Hsp90ab1/Vsnl1/Camk2n1/Ywhae/Arpc2",7
+"GO:0007616","long-term memory","3/149","43/28943",0.00141896025298984,0.0135971243891763,0.0101882132292234,"Snap25/Egr1/Camk2n1",3
+"GO:0051281","positive regulation of release of sequestered calcium ion into cytosol","3/149","43/28943",0.00141896025298984,0.0135971243891763,0.0101882132292234,"Calm1/Calm2/Snca",3
+"GO:0032410","negative regulation of transporter activity","4/149","94/28943",0.00143641442840849,0.0137162510628796,0.0102774738639164,"Calm1/Calm2/Ywhae/Snca",4
+"GO:0034314","Arp2/3 complex-mediated actin nucleation","3/149","44/28943",0.00151707796516848,0.014385902509983,0.0107792381735655,"Carmil1/Ctnna2/Arpc2",3
+"GO:0099084","postsynaptic specialization organization","3/149","44/28943",0.00151707796516848,0.014385902509983,0.0107792381735655,"Hspa8/Cfl1/Nrxn1",3
+"GO:0086009","membrane repolarization","3/149","45/28943",0.00161934864634545,0.0153025645438388,0.0114660854798599,"Ank2/Atp1b1/Ywhae",3
+"GO:0060047","heart contraction","6/149","242/28943",0.00163125156197045,0.0153618897094528,0.0115105373374612,"Calm1/Calm2/Ank2/Atp1b1/Pebp1/Rgs2",6
+"GO:0002176","male germ cell proliferation","2/149","12/28943",0.00167963666549236,0.0156023392294546,0.0116907041808706,"Uchl1/Il18",2
+"GO:0061684","chaperone-mediated autophagy","2/149","12/28943",0.00167963666549236,0.0156023392294546,0.0116907041808706,"Hspa8/Snca",2
+"GO:0070262","peptidyl-serine dephosphorylation","2/149","12/28943",0.00167963666549236,0.0156023392294546,0.0116907041808706,"Swap70/Ywhae",2
+"GO:1902947","regulation of tau-protein kinase activity","2/149","12/28943",0.00167963666549236,0.0156023392294546,0.0116907041808706,"Hsp90aa1/Egr1",2
+"GO:0140029","exocytic process","4/149","99/28943",0.00173836204951173,0.0160931076515814,0.012058432914365,"Snap25/Rab3a/Ywhaz/Snca",4
+"GO:0050806","positive regulation of synaptic transmission","7/149","335/28943",0.00180588349223681,0.0166617155989822,0.0124844861625475,"Nrgn/Snap25/Rab3a/Grik1/Slc1a3/Snca/Nrxn1",7
+"GO:0035774","positive regulation of insulin secretion involved in cellular response to glucose stimulus","3/149","47/28943",0.00183659993492057,0.0168880620278387,0.0126540856760078,"Dynll1/Vsnl1/Camk2n1",3
+"GO:1904951","positive regulation of establishment of protein localization","7/149","337/28943",0.00186754557093252,0.0171149897792507,0.0128241207696673,"Ppia/Dynll1/Hsp90ab1/Vsnl1/Camk2n1/Ywhae/Arpc2",7
+"GO:0006122","mitochondrial electron transport, ubiquinol to cytochrome c","2/149","13/28943",0.0019783303700611,0.017831089903092,0.0133606886899385,"Cycs/Uqcrb",2
+"GO:0031223","auditory behavior","2/149","13/28943",0.0019783303700611,0.017831089903092,0.0133606886899385,"Slc1a3/Nrxn1",2
+"GO:0044557","relaxation of smooth muscle","2/149","13/28943",0.0019783303700611,0.017831089903092,0.0133606886899385,"Kcnma1/Rgs2",2
+"GO:1902857","positive regulation of non-motile cilium assembly","2/149","13/28943",0.0019783303700611,0.017831089903092,0.0133606886899385,"Dynll1/Septin7",2
+"GO:2000347","positive regulation of hepatocyte proliferation","2/149","13/28943",0.0019783303700611,0.017831089903092,0.0133606886899385,"Rtn4/Il18",2
+"GO:0033674","positive regulation of kinase activity","8/149","440/28943",0.00206905535929181,0.0184851514624706,0.0138507716252164,"Ppia/Hsp90ab1/Hsp90aa1/Egr1/Il18/Lmo4/Snca/Nrxn1",8
+"GO:0010332","response to gamma radiation","3/149","49/28943",0.00207120334951153,0.0184851514624706,0.0138507716252164,"Egr1/Rpl26/Cryab",3
+"GO:0089718","amino acid import across plasma membrane","3/149","49/28943",0.00207120334951153,0.0184851514624706,0.0138507716252164,"Arl6ip1/Slc1a3/Rgs2",3
+"GO:0003015","heart process","6/149","254/28943",0.00208050918801681,0.0185077217995893,0.0138676833927814,"Calm1/Calm2/Ank2/Atp1b1/Pebp1/Rgs2",6
+"GO:0001505","regulation of neurotransmitter levels","6/149","255/28943",0.00212177216951122,0.0188135058277115,0.0140968048445995,"Snap25/Rab3a/Pebp1/Snca/Nrxn1/Nr4a1",6
+"GO:0051896","regulation of protein kinase B signaling","5/149","175/28943",0.00216569151183699,0.0191407880868182,0.0143420347436931,"Hsp90ab1/Hsp90aa1/Rtn4/Il18/Nrxn1",5
+"GO:0035305","negative regulation of dephosphorylation","3/149","50/28943",0.00219515945869634,0.0192638380290603,0.0144342350511643,"Swap70/Ywhae/Ywhab",3
+"GO:1902743","regulation of lamellipodium organization","3/149","50/28943",0.00219515945869634,0.0192638380290603,0.0144342350511643,"Carmil1/Cfl1/Arpc2",3
+"GO:0071900","regulation of protein serine/threonine kinase activity","7/149","347/28943",0.00220077534422073,0.0192638380290603,0.0144342350511643,"Hsp90ab1/Uchl1/Actb/Dnaja1/Snca/Rgs2/Nrxn1",7
+"GO:0006606","protein import into nucleus","5/149","177/28943",0.00227515020640224,0.0197548431490325,0.0148021411404032,"Hsp90ab1/Hspa8/Appl2/Cfl1/Ddx5",5
+"GO:2001242","regulation of intrinsic apoptotic signaling pathway","5/149","177/28943",0.00227515020640224,0.0197548431490325,0.0148021411404032,"Ppia/Ubb/Tpt1/Rpl26/Dnaja1",5
+"GO:0010882","regulation of cardiac muscle contraction by calcium ion signaling","2/149","14/28943",0.00230027100746698,0.0197548431490325,0.0148021411404032,"Ank2/Atp1b1",2
+"GO:0036093","germ cell proliferation","2/149","14/28943",0.00230027100746698,0.0197548431490325,0.0148021411404032,"Uchl1/Il18",2
+"GO:0043517","positive regulation of DNA damage response, signal transduction by p53 class mediator","2/149","14/28943",0.00230027100746698,0.0197548431490325,0.0148021411404032,"Rpl26/Ddx5",2
+"GO:0090158","endoplasmic reticulum membrane organization","2/149","14/28943",0.00230027100746698,0.0197548431490325,0.0148021411404032,"Arl6ip1/Rtn4",2
+"GO:0006816","calcium ion transport","8/149","449/28943",0.00234406815354357,0.0200051566478984,0.0149896989818707,"Calm1/Calm2/Ank2/Fgf14/Fkbp1a/Atp1b1/Ywhae/Snca",8
+"GO:0042692","muscle cell differentiation","8/149","449/28943",0.00234406815354357,0.0200051566478984,0.0149896989818707,"Tmsb4x/Ank2/Uchl1/Slc25a4/Syne1/Actg1/Rgs2/Norad",8
+"GO:0007006","mitochondrial membrane organization","4/149","108/28943",0.00238819105279795,0.0202551234943826,0.0151769970795659,"Hsp90aa1/Chchd10/Slc25a4/Snca",4
+"GO:1904063","negative regulation of cation transmembrane transport","4/149","108/28943",0.00238819105279795,0.0202551234943826,0.0151769970795659,"Calm1/Calm2/Ywhae/Rgs2",4
+"GO:0043268","positive regulation of potassium ion transport","3/149","52/28943",0.00245666434767478,0.0207713632616093,0.0155638112819937,"Ank2/Rgs7/Atp1b1",3
+"GO:0030516","regulation of axon extension","4/149","109/28943",0.00246938487851545,0.0208144756272398,0.0155961150222028,"Olfm1/Atp5g1/Rtn4/Sema6d",4
+"GO:0051170","import into nucleus","5/149","181/28943",0.00250607882843159,0.0210587731706052,0.0157791651578009,"Hsp90ab1/Hspa8/Appl2/Cfl1/Ddx5",5
+"GO:0015711","organic anion transport","7/149","356/28943",0.00253838673776414,0.0212367876704467,0.0159125499552307,"Cck/Slc25a4/Grik1/Arl6ip1/Slc1a3/Snca/Rgs2",7
+"GO:0051656","establishment of organelle localization","8/149","455/28943",0.00254281566028417,0.0212367876704467,0.0159125499552307,"Ubb/Uchl1/Rab3a/Syne1/Ywhaz/Cfl1/Snca/Nudc",8
+"GO:0071456","cellular response to hypoxia","4/149","110/28943",0.00255245678052676,0.0212523154500567,0.0159241847925033,"Chchd2/Egr1/Rtn4/Kcnk2",4
+"GO:0034605","cellular response to heat","3/149","53/28943",0.00259432302213734,0.0215352467278331,0.0161361828668533,"Hsp90ab1/Hsp90aa1/Ywhae",3
+"GO:0030007","cellular potassium ion homeostasis","2/149","15/28943",0.00264521455881797,0.0216289849105744,0.0162064201145355,"Kcnma1/Atp1b1",2
+"GO:0036498","IRE1-mediated unfolded protein response","2/149","15/28943",0.00264521455881797,0.0216289849105744,0.0162064201145355,"Hspa5/Pdia6",2
+"GO:0044794","positive regulation by host of viral process","2/149","15/28943",0.00264521455881797,0.0216289849105744,0.0162064201145355,"Hspa8/Cfl1",2
+"GO:0051280","negative regulation of release of sequestered calcium ion into cytosol","2/149","15/28943",0.00264521455881797,0.0216289849105744,0.0162064201145355,"Calm1/Calm2",2
+"GO:0098712","L-glutamate import across plasma membrane","2/149","15/28943",0.00264521455881797,0.0216289849105744,0.0162064201145355,"Arl6ip1/Slc1a3",2
+"GO:1903522","regulation of blood circulation","6/149","268/28943",0.0027163430829229,0.0221442774909327,0.01659252459765,"Calm1/Calm2/Ank2/Atp1b1/Pebp1/Rgs2",6
+"GO:0097553","calcium ion transmembrane import into cytosol","5/149","185/28943",0.00275358048627582,0.0223810366310097,0.0167699262698001,"Calm1/Calm2/Ank2/Fkbp1a/Snca",5
+"GO:0030004","cellular monovalent inorganic cation homeostasis","4/149","113/28943",0.00281315614507297,0.0226361669203281,0.0169610932926508,"Atp6v0c/Kcnma1/Slc1a3/Atp1b1",4
+"GO:0007269","neurotransmitter secretion","5/149","186/28943",0.00281812403987973,0.0226361669203281,0.0169610932926508,"Snap25/Rab3a/Snca/Nrxn1/Nr4a1",5
+"GO:0048813","dendrite morphogenesis","5/149","186/28943",0.00281812403987973,0.0226361669203281,0.0169610932926508,"Ywhah/Septin7/Cfl1/Ctnna2/Dock10",5
+"GO:0099643","signal release from synapse","5/149","186/28943",0.00281812403987973,0.0226361669203281,0.0169610932926508,"Snap25/Rab3a/Snca/Nrxn1/Nr4a1",5
+"GO:0045860","positive regulation of protein kinase activity","7/149","363/28943",0.00282748765685176,0.0226447765127923,0.0169675443893188,"Ppia/Hsp90ab1/Hsp90aa1/Egr1/Il18/Snca/Nrxn1",7
+"GO:0032892","positive regulation of organic acid transport","3/149","55/28943",0.00288371859852517,0.0228940034021859,0.0171542880432652,"Cck/Grik1/Arl6ip1",3
+"GO:0043271","negative regulation of ion transport","5/149","187/28943",0.00288375582949541,0.0228940034021859,0.0171542880432652,"Calm1/Calm2/Ywhae/Snca/Rgs2",5
+"GO:0043409","negative regulation of MAPK cascade","5/149","187/28943",0.00288375582949541,0.0228940034021859,0.0171542880432652,"Ppia/Uchl1/Pebp1/Dnaja1/Rgs2",5
+"GO:0043266","regulation of potassium ion transport","4/149","114/28943",0.00290395510464833,0.0229875402631728,0.0172243744422162,"Ank2/Rgs7/Atp1b1/Ywhae",4
+"GO:0120034","positive regulation of plasma membrane bounded cell projection assembly","4/149","115/28943",0.00299673905956748,0.0234423972646315,0.0175651950442073,"Dynll1/Septin7/Cfl1/Arpc2",4
+"GO:0007638","mechanosensory behavior","2/149","16/28943",0.00301291887216611,0.0234423972646315,0.0175651950442073,"Slc1a3/Nrxn1",2
+"GO:0030322","stabilization of membrane potential","2/149","16/28943",0.00301291887216611,0.0234423972646315,0.0175651950442073,"Chchd10/Kcnk2",2
+"GO:0055119","relaxation of cardiac muscle","2/149","16/28943",0.00301291887216611,0.0234423972646315,0.0175651950442073,"Atp1b1/Rgs2",2
+"GO:0090128","regulation of synapse maturation","2/149","16/28943",0.00301291887216611,0.0234423972646315,0.0175651950442073,"Ywhaz/Nrxn1",2
+"GO:0098885","modification of postsynaptic actin cytoskeleton","2/149","16/28943",0.00301291887216611,0.0234423972646315,0.0175651950442073,"Cfl1/Ctnna2",2
+"GO:0006986","response to unfolded protein","4/149","116/28943",0.00309152911071405,0.0239177507120682,0.0179213734642258,"Hspa8/Hsp90aa1/Hspa5/Pdia6",4
+"GO:0048024","regulation of mRNA splicing, via spliceosome","4/149","116/28943",0.00309152911071405,0.0239177507120682,0.0179213734642258,"Malat1/Hspa8/Ddx5/Rbm39",4
+"GO:0007517","muscle organ development","7/149","371/28943",0.00318813933892603,0.0244200802516858,0.0182977648477624,"Egr1/Myl6/Cryab/Fkbp1a/Ddx5/Norad/Nr4a1",7
+"GO:0034766","negative regulation of ion transmembrane transport","4/149","117/28943",0.00318834625904579,0.0244200802516858,0.0182977648477624,"Calm1/Calm2/Ywhae/Rgs2",4
+"GO:0045010","actin nucleation","3/149","57/28943",0.00319222579635731,0.0244200802516858,0.0182977648477624,"Carmil1/Ctnna2/Arpc2",3
+"GO:1903170","negative regulation of calcium ion transmembrane transport","3/149","57/28943",0.00319222579635731,0.0244200802516858,0.0182977648477624,"Calm1/Calm2/Ywhae",3
+"GO:0006735","NADH regeneration","2/149","17/28943",0.00340314364996436,0.0254629734467197,0.0190791961226553,"Gapdh/Aldoa",2
+"GO:0010958","regulation of amino acid import across plasma membrane","2/149","17/28943",0.00340314364996436,0.0254629734467197,0.0190791961226553,"Arl6ip1/Rgs2",2
+"GO:0051014","actin filament severing","2/149","17/28943",0.00340314364996436,0.0254629734467197,0.0190791961226553,"Cfl1/Dstn",2
+"GO:0051284","positive regulation of sequestering of calcium ion","2/149","17/28943",0.00340314364996436,0.0254629734467197,0.0190791961226553,"Calm1/Calm2",2
+"GO:0061621","canonical glycolysis","2/149","17/28943",0.00340314364996436,0.0254629734467197,0.0190791961226553,"Gapdh/Aldoa",2
+"GO:0061718","glucose catabolic process to pyruvate","2/149","17/28943",0.00340314364996436,0.0254629734467197,0.0190791961226553,"Gapdh/Aldoa",2
+"GO:0090493","catecholamine uptake","2/149","17/28943",0.00340314364996436,0.0254629734467197,0.0190791961226553,"Actb/Snca",2
+"GO:1903789","regulation of amino acid transmembrane transport","2/149","17/28943",0.00340314364996436,0.0254629734467197,0.0190791961226553,"Arl6ip1/Rgs2",2
+"GO:0043524","negative regulation of neuron apoptotic process","5/149","195/28943",0.00344924580215128,0.0257374051521179,0.0192848255374809,"Hsp90ab1/Pcp4/Sncb/Snca/Slc30a10",5
+"GO:1990778","protein localization to cell periphery","7/149","377/28943",0.00348095334149348,0.0259032250016858,0.0194090729839763,"Ank2/Gpr158/Snap25/Actb/Rab3a/Atp1b1/Nrxn1",7
+"GO:0097479","synaptic vesicle localization","3/149","59/28943",0.00352023727958738,0.0259492393330158,0.0194435511431643,"Rab3a/Snca/Nrxn1",3
+"GO:1903793","positive regulation of anion transport","3/149","59/28943",0.00352023727958738,0.0259492393330158,0.0194435511431643,"Cck/Grik1/Arl6ip1",3
+"GO:2000649","regulation of sodium ion transmembrane transporter activity","3/149","59/28943",0.00352023727958738,0.0259492393330158,0.0194435511431643,"Ywhah/Fgf14/Atp1b1",3
+"GO:0019722","calcium-mediated signaling","5/149","196/28943",0.00352514382737051,0.0259492393330158,0.0194435511431643,"Calm1/Calm2/Ank2/Hint1/Atp1b1",5
+"GO:0098739","import across plasma membrane","5/149","198/28943",0.00368052963478984,0.0270202323457286,0.0202460373798286,"Calm1/Arl6ip1/Slc1a3/Atp1b1/Rgs2",5
+"GO:1902475","L-alpha-amino acid transmembrane transport","3/149","60/28943",0.00369167488878411,0.0270293944269957,0.0202529024518028,"Arl6ip1/Slc1a3/Rgs2",3
+"GO:0000375","RNA splicing, via transesterification reactions","6/149","287/28943",0.00379963455497791,0.0273505022109167,0.0204935058675334,"Malat1/Hspa8/Snrpn/Ddx5/Rbm39/Luc7l2",6
+"GO:0000377","RNA splicing, via transesterification reactions with bulged adenosine as nucleophile","6/149","287/28943",0.00379963455497791,0.0273505022109167,0.0204935058675334,"Malat1/Hspa8/Snrpn/Ddx5/Rbm39/Luc7l2",6
+"GO:0000398","mRNA splicing, via spliceosome","6/149","287/28943",0.00379963455497791,0.0273505022109167,0.0204935058675334,"Malat1/Hspa8/Snrpn/Ddx5/Rbm39/Luc7l2",6
+"GO:1902414","protein localization to cell junction","4/149","123/28943",0.00381298108180552,0.0273505022109167,0.0204935058675334,"Snap25/Actb/Actg1/Nrxn1",4
+"GO:0035493","SNARE complex assembly","2/149","18/28943",0.00381565043660171,0.0273505022109167,0.0204935058675334,"Snap25/Snca",2
+"GO:0060134","prepulse inhibition","2/149","18/28943",0.00381565043660171,0.0273505022109167,0.0204935058675334,"Ctnna2/Nrxn1",2
+"GO:0097091","synaptic vesicle clustering","2/149","18/28943",0.00381565043660171,0.0273505022109167,0.0204935058675334,"Rab3a/Nrxn1",2
+"GO:1902855","regulation of non-motile cilium assembly","2/149","18/28943",0.00381565043660171,0.0273505022109167,0.0204935058675334,"Dynll1/Septin7",2
+"GO:0043407","negative regulation of MAP kinase activity","3/149","61/28943",0.00386812766110406,0.027581871129178,0.0206668686909064,"Uchl1/Dnaja1/Rgs2",3
+"GO:0140115","export across plasma membrane","3/149","61/28943",0.00386812766110406,0.027581871129178,0.0206668686909064,"Calm2/Atp1b1/Ywhae",3
+"GO:0061387","regulation of extent of cell growth","4/149","124/28943",0.00392456707128504,0.0279114392491652,0.0209138113667163,"Olfm1/Atp5g1/Rtn4/Sema6d",4
+"GO:0046942","carboxylic acid transport","6/149","290/28943",0.00399628748248621,0.0283476912069347,0.0212406913628249,"Cck/Grik1/Arl6ip1/Slc1a3/Snca/Rgs2",6
+"GO:0031334","positive regulation of protein-containing complex assembly","5/149","203/28943",0.00409042201810775,0.028940265625524,0.021684702490323,"Cck/Hsp90aa1/Carmil1/Snca/Arpc2",5
+"GO:0033605","positive regulation of catecholamine secretion","2/149","19/28943",0.00425020260601611,0.0296104676454847,0.0221868793396759,"Pcp4/Rtn4",2
+"GO:0051131","chaperone-mediated protein complex assembly","2/149","19/28943",0.00425020260601611,0.0296104676454847,0.0221868793396759,"Hsp90ab1/Hsp90aa1",2
+"GO:0071786","endoplasmic reticulum tubular network organization","2/149","19/28943",0.00425020260601611,0.0296104676454847,0.0221868793396759,"Arl6ip1/Rtn4",2
+"GO:1900037","regulation of cellular response to hypoxia","2/149","19/28943",0.00425020260601611,0.0296104676454847,0.0221868793396759,"Chchd2/Kcnk2",2
+"GO:1902430","negative regulation of amyloid-beta formation","2/149","19/28943",0.00425020260601611,0.0296104676454847,0.0221868793396759,"Rtn1/Rtn4",2
+"GO:1905874","regulation of postsynaptic density organization","2/149","19/28943",0.00425020260601611,0.0296104676454847,0.0221868793396759,"Cfl1/Nrxn1",2
+"GO:0061077","chaperone-mediated protein folding","3/149","64/28943",0.00442801230233525,0.030705176746836,0.023007135846075,"Hspa8/Hspa5/Fkbp1a",3
+"GO:0007519","skeletal muscle tissue development","5/149","207/28943",0.00444106364518499,0.030705176746836,0.023007135846075,"Egr1/Myl6/Ddx5/Norad/Nr4a1",5
+"GO:0043491","protein kinase B signaling","5/149","207/28943",0.00444106364518499,0.030705176746836,0.023007135846075,"Hsp90ab1/Hsp90aa1/Rtn4/Il18/Nrxn1",5
+"GO:0033138","positive regulation of peptidyl-serine phosphorylation","4/149","129/28943",0.00451576387946213,0.0311428059464926,0.0233350477981775,"Hsp90ab1/Hsp90aa1/Snca/Nrxn1",4
+"GO:0010656","negative regulation of muscle cell apoptotic process","3/149","65/28943",0.00462495573100041,0.0318155015147661,0.0238390930427278,"Gapdh/Hspa8/Slc25a4",3
+"GO:0032230","positive regulation of synaptic transmission, GABAergic","2/149","20/28943",0.00470656534938479,0.0321300341885675,0.0240747697826419,"Grik1/Nrxn1",2
+"GO:0045986","negative regulation of smooth muscle contraction","2/149","20/28943",0.00470656534938479,0.0321300341885675,0.0240747697826419,"Kcnma1/Rgs2",2
+"GO:0061620","glycolytic process through glucose-6-phosphate","2/149","20/28943",0.00470656534938479,0.0321300341885675,0.0240747697826419,"Gapdh/Aldoa",2
+"GO:0021953","central nervous system neuron differentiation","5/149","210/28943",0.00471773845097604,0.0321300341885675,0.0240747697826419,"Hsp90ab1/Ubb/Hsp90aa1/Lmo4/Nrxn1",5
+"GO:1901016","regulation of potassium ion transmembrane transporter activity","3/149","67/28943",0.00503455598892691,0.0342024189197995,0.0256275905799265,"Ank2/Atp1b1/Ywhae",3
+"GO:0010212","response to ionizing radiation","4/149","134/28943",0.005164205092275,0.0348741008998934,0.0261308763512085,"Egr1/Rpl26/Cryab/D7Ertd443e",4
+"GO:0010310","regulation of hydrogen peroxide metabolic process","2/149","21/28943",0.00518450566289152,0.0348741008998934,0.0261308763512085,"Cycs/Snca",2
+"GO:0048172","regulation of short-term neuronal synaptic plasticity","2/149","21/28943",0.00518450566289152,0.0348741008998934,0.0261308763512085,"Rab3a/Grik1",2
+"GO:0072520","seminiferous tubule development","2/149","21/28943",0.00518450566289152,0.0348741008998934,0.0261308763512085,"Ubb/Scaper",2
+"GO:0019933","cAMP-mediated signaling","3/149","68/28943",0.00524728940648675,0.035209698695615,0.026382337013346,"Gapdh/Pde10a/Pebp1",3
+"GO:0006979","response to oxidative stress","7/149","407/28943",0.00526384600802427,0.0352342241370448,0.0264007137244561,"Ppia/Chchd2/Cryab/Psmb5/Cfl1/Cst3/Snca",7
+"GO:0036294","cellular response to decreased oxygen levels","4/149","135/28943",0.00530097439961426,0.035395992873708,0.0265219257054436,"Chchd2/Egr1/Rtn4/Kcnk2",4
+"GO:0072659","protein localization to plasma membrane","6/149","308/28943",0.0053384436498708,0.0355592429458467,0.026644247638893,"Ank2/Gpr158/Actb/Rab3a/Atp1b1/Nrxn1",6
+"GO:0060538","skeletal muscle organ development","5/149","219/28943",0.00562115073090415,0.0370790719932634,0.0277830430167874,"Egr1/Myl6/Ddx5/Norad/Nr4a1",5
+"GO:0006907","pinocytosis","2/149","22/28943",0.00568379233557023,0.0370790719932634,0.0277830430167874,"Carmil1/Appl2",2
+"GO:0045475","locomotor rhythm","2/149","22/28943",0.00568379233557023,0.0370790719932634,0.0277830430167874,"Egr1/Kcnma1",2
+"GO:0051602","response to electrical stimulus","2/149","22/28943",0.00568379233557023,0.0370790719932634,0.0277830430167874,"Actb/Rab3a",2
+"GO:1901387","positive regulation of voltage-gated calcium channel activity","2/149","22/28943",0.00568379233557023,0.0370790719932634,0.0277830430167874,"Calm1/Fgf14",2
+"GO:1902992","negative regulation of amyloid precursor protein catabolic process","2/149","22/28943",0.00568379233557023,0.0370790719932634,0.0277830430167874,"Rtn1/Rtn4",2
+"GO:0050885","neuromuscular process controlling balance","3/149","70/28943",0.00568880672470794,0.0370790719932634,0.0277830430167874,"Kcnma1/Slc1a3/Nrxn1",3
+"GO:1902305","regulation of sodium ion transmembrane transport","3/149","70/28943",0.00568880672470794,0.0370790719932634,0.0277830430167874,"Ywhah/Fgf14/Atp1b1",3
+"GO:1905710","positive regulation of membrane permeability","3/149","70/28943",0.00568880672470794,0.0370790719932634,0.0277830430167874,"Hspa8/Chchd10/Slc25a4",3
+"GO:0035966","response to topologically incorrect protein","4/149","138/28943",0.00572578256368249,0.037231219479564,0.0278970458741823,"Hspa8/Hsp90aa1/Hspa5/Pdia6",4
+"GO:1902017","regulation of cilium assembly","3/149","72/28943",0.00615195834366299,0.0398674331872019,0.0298723390760741,"Dynll1/Syne1/Septin7",3
+"GO:0000413","protein peptidyl-prolyl isomerization","2/149","23/28943",0.00620419593722476,0.0398674331872019,0.0298723390760741,"Ppia/Fkbp1a",2
+"GO:0007625","grooming behavior","2/149","23/28943",0.00620419593722476,0.0398674331872019,0.0298723390760741,"Ddo/Nrxn1",2
+"GO:0010738","regulation of protein kinase A signaling","2/149","23/28943",0.00620419593722476,0.0398674331872019,0.0298723390760741,"Pde10a/Nrxn1",2
+"GO:0061615","glycolytic process through fructose-6-phosphate","2/149","23/28943",0.00620419593722476,0.0398674331872019,0.0298723390760741,"Gapdh/Aldoa",2
+"GO:0060997","dendritic spine morphogenesis","3/149","73/28943",0.00639173099281489,0.040976097045487,0.0307030517668202,"Septin7/Cfl1/Dock10",3
+"GO:0015849","organic acid transport","6/149","322/28943",0.00659088590763627,0.0421538862148821,0.0315855594834091,"Cck/Grik1/Arl6ip1/Slc1a3/Snca/Rgs2",6
+"GO:0030032","lamellipodium assembly","3/149","74/28943",0.00663701107737045,0.0423497132063054,0.03173229103396,"Carmil1/Cfl1/Arpc2",3
+"GO:0006007","glucose catabolic process","2/149","24/28943",0.006745488806424,0.0424468431574745,0.0318050697057683,"Gapdh/Aldoa",2
+"GO:0031629","synaptic vesicle fusion to presynaptic active zone membrane","2/149","24/28943",0.006745488806424,0.0424468431574745,0.0318050697057683,"Snap25/Rab3a",2
+"GO:0034643","establishment of mitochondrion localization, microtubule-mediated","2/149","24/28943",0.006745488806424,0.0424468431574745,0.0318050697057683,"Ubb/Uchl1",2
+"GO:0040019","positive regulation of embryonic development","2/149","24/28943",0.006745488806424,0.0424468431574745,0.0318050697057683,"Hspa5/Cfl1",2
+"GO:0047497","mitochondrion transport along microtubule","2/149","24/28943",0.006745488806424,0.0424468431574745,0.0318050697057683,"Ubb/Uchl1",2
+"GO:2000345","regulation of hepatocyte proliferation","2/149","24/28943",0.006745488806424,0.0424468431574745,0.0318050697057683,"Rtn4/Il18",2
+"GO:0070972","protein localization to endoplasmic reticulum","3/149","75/28943",0.00688782957851306,0.0431437215112825,0.0323272349121907,"Ank2/Hspa5/Rtn4",3
+"GO:0071479","cellular response to ionizing radiation","3/149","75/28943",0.00688782957851306,0.0431437215112825,0.0323272349121907,"Egr1/Rpl26/Cryab",3
+"GO:0030833","regulation of actin filament polymerization","4/149","146/28943",0.00696814125039343,0.0435468964641292,0.032629330581151,"Tmsb4x/Carmil1/Cfl1/Arpc2",4
+"GO:0000281","mitotic cytokinesis","3/149","76/28943",0.00714421655021627,0.0444438619559012,0.0333014194308127,"Stmn1/Septin7/Cfl1",3
+"GO:0051926","negative regulation of calcium ion transport","3/149","76/28943",0.00714421655021627,0.0444438619559012,0.0333014194308127,"Calm1/Calm2/Ywhae",3
+"GO:0014048","regulation of glutamate secretion","2/149","25/28943",0.00730744503857229,0.0447458125568182,0.0335276685272234,"Cck/Snca",2
+"GO:0015813","L-glutamate transmembrane transport","2/149","25/28943",0.00730744503857229,0.0447458125568182,0.0335276685272234,"Arl6ip1/Slc1a3",2
+"GO:0051457","maintenance of protein location in nucleus","2/149","25/28943",0.00730744503857229,0.0447458125568182,0.0335276685272234,"Chchd10/Syne1",2
+"GO:0060547","negative regulation of necrotic cell death","2/149","25/28943",0.00730744503857229,0.0447458125568182,0.0335276685272234,"Fth1/Slc25a4",2
+"GO:0099500","vesicle fusion to plasma membrane","2/149","25/28943",0.00730744503857229,0.0447458125568182,0.0335276685272234,"Snap25/Rab3a",2
+"GO:0150105","protein localization to cell-cell junction","2/149","25/28943",0.00730744503857229,0.0447458125568182,0.0335276685272234,"Actb/Actg1",2
+"GO:1901028","regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway","2/149","25/28943",0.00730744503857229,0.0447458125568182,0.0335276685272234,"Chchd10/Slc25a4",2
+"GO:0043467","regulation of generation of precursor metabolites and energy","4/149","149/28943",0.00747646115126036,0.0456783342373424,0.0342263993360418,"Chchd2/Cox7a2/Cycs/Ndufa4",4
+"GO:0019233","sensory perception of pain","4/149","150/28943",0.00765118155106849,0.0465375875634032,0.0348702307707822,"Cck/Uchl1/Rtn4/Il18",4
+"GO:0072331","signal transduction by p53 class mediator","4/149","150/28943",0.00765118155106849,0.0465375875634032,0.0348702307707822,"Ubb/Hint1/Rpl26/Ddx5",4
+"GO:0006919","activation of cysteine-type endopeptidase activity involved in apoptotic process","3/149","78/28943",0.007673811550444,0.0465715096539168,0.034895648313598,"Cck/Cycs/Snca",3
+"GO:0071453","cellular response to oxygen levels","4/149","151/28943",0.00782856983399522,0.0473563831530601,0.0354837475571119,"Chchd2/Egr1/Rtn4/Kcnk2",4
+"GO:0006883","cellular sodium ion homeostasis","2/149","26/28943",0.00788984047405432,0.0473563831530601,0.0354837475571119,"Slc1a3/Atp1b1",2
+"GO:0010996","response to auditory stimulus","2/149","26/28943",0.00788984047405432,0.0473563831530601,0.0354837475571119,"Slc1a3/Nrxn1",2
+"GO:0051938","L-glutamate import","2/149","26/28943",0.00788984047405432,0.0473563831530601,0.0354837475571119,"Arl6ip1/Slc1a3",2
+"GO:0099010","modification of postsynaptic structure","2/149","26/28943",0.00788984047405432,0.0473563831530601,0.0354837475571119,"Cfl1/Ctnna2",2
+"GO:0042180","cellular ketone metabolic process","5/149","241/28943",0.00833187027840625,0.0498998634437006,0.0373895563740114,"Aldoa/Egr1/Kcnma1/Appl2/Snca",5
+"GO:0006839","mitochondrial transport","4/149","154/28943",0.008376904880985,0.0499504961353058,0.0374274950324864,"Hsp90aa1/Chchd10/Slc25a4/Ywhaz",4
+"GO:0050684","regulation of mRNA processing","4/149","154/28943",0.008376904880985,0.0499504961353058,0.0374274950324864,"Malat1/Hspa8/Ddx5/Rbm39",4
